@@ -69,8 +69,7 @@ Choose a reasoning framework for the AI Tutor to employ:
 Set how often the AI Tutor should check and update its knowledge:
 
 - Don't Check
-- Check Once
-- Double-Check
+- Check
 
 *Requires plugins.
 
