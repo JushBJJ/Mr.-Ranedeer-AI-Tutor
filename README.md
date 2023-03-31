@@ -13,6 +13,7 @@ Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt 
 - [AI Tutor Personalization Options](#ai-tutor-personalization-options)
   - [Commands](#commands)
   - [Detailed Documentation](#detailed-documentation)
+- [Screenshots](#screenshots)
 
 ## Why Mr. Ranedeer AI Tutor?
 
