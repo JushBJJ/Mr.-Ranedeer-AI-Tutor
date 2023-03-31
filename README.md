@@ -72,3 +72,18 @@ The AI Tutor supports the following commands:
 ## Detailed Documentation
 
 Find detailed documentation for Mr. Ranedeer AI Tutor in the [docs.md](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/master/docs.md) file.
+
+# Screenshots
+![image](https://user-images.githubusercontent.com/36951064/229168456-bc860426-afc5-4048-a910-3d4437b2d2db.png)
+![image](https://user-images.githubusercontent.com/36951064/229168787-e3892fce-e0a1-4cf4-808d-b3dc2fa1f6fe.png)
+![image](https://user-images.githubusercontent.com/36951064/229167741-c58c499c-8728-4acd-9009-266dea8bdc3c.png)
+![image](https://user-images.githubusercontent.com/36951064/229167866-291b4804-8c3b-4342-a6eb-d76f806e2b06.png)
+![image](https://user-images.githubusercontent.com/36951064/229167937-733e2d9b-2f5d-4ecc-aa33-c5ce147e7f91.png)
+![image](https://user-images.githubusercontent.com/36951064/229167647-c8049f2f-081f-453c-9e62-702f93f0894f.png)
+![image](https://user-images.githubusercontent.com/36951064/229167357-fd0795d3-5594-4d9d-8ad3-5462aaf5f791.png)
+![image](https://user-images.githubusercontent.com/36951064/229167458-86c19883-3537-4a05-908a-8d74cc5df14d.png)
+![image](https://user-images.githubusercontent.com/36951064/229169127-2007bad7-6ffd-4422-a7e3-59f6a1ebb0d6.png)
+![image](https://user-images.githubusercontent.com/36951064/229169351-60b208dd-7514-4956-a4ae-ccaaa30d56eb.png)
+![image](https://user-images.githubusercontent.com/36951064/229169501-c77881c0-6ad7-4075-8b80-661b6a96e201.png)
+
+
