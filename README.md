@@ -3,7 +3,7 @@
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
 ## Table of Contents
-- [Mr. Ranedeer AI Tutor: Your Personalized Learning Experience](#mr-ranedeer-ai-tutor-your-personalized-learning-experience)
+- [Mr. Ranedeer: Your personalized AI Tutor!](#mr-ranedeer-your-personalized-ai-tutor)
   - [Table of Contents](#table-of-contents)
   - [Why Mr. Ranedeer AI Tutor?](#why-mr-ranedeer-ai-tutor)
   - [Requirements and Compatibility](#requirements-and-compatibility)
@@ -29,7 +29,7 @@ Mr. Ranedeer AI Tutor allows you to:
 
 ### Not Recommended
 - Default and Legacy GPT-3.5
-- GPT-4 API
+- GPT-4 API (It will be costly)
 
 *Note: The compatibility with plugins for this prompt is currently unknown.
 
