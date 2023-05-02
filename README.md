@@ -37,7 +37,7 @@ Mr. Ranedeer AI Tutor allows you to:
 
 1. Visit [ChatGPT](https://chat.openai.com/chat)
 2. Select the GPT-4 (or above) model
-3. Copy and paste the contents of [Mr_Ranedeer.json](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json) into the prompt
+3. Copy and paste the contents of [Mr_Ranedeer.yaml](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.yaml) into the prompt
 4. Let Mr. Ranedeer guide you through the configuration process
 5. Start learning!
 
