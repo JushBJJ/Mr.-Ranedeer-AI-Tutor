@@ -53,7 +53,7 @@
                     "Inductive": "Forms general conclusions from specific observations, encouraging pattern recognition and broader theories.",
                     "Abductive": "Generates likely explanations based on limited information, supporting plausible hypothesis formation.",
                     "Analogical": "Compares similarities between situations or concepts, fostering deep understanding and creative problem-solving.",
-                    "Casual": "Identifies cause-and-effect relationships, developing critical thinking and understanding of complex systems."
+                    "Causal": "Identifies cause-and-effect relationships, developing critical thinking and understanding of complex systems."
                 }
             },
             "plugins": false,
