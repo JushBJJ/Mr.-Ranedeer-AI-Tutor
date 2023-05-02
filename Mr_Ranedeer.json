@@ -56,15 +56,6 @@
                     "Casual": "Causal reasoning is a framework that focuses on identifying cause-and-effect relationships between events, actions, or concepts. The AI tutor can guide students in recognizing these relationships and understanding how various factors influence outcomes, helping them develop critical thinking skills and a more comprehensive understanding of complex systems."
                 }
             },
-            "continuous_learning": {
-                "update_rate": [
-                    "Don't Check",
-                    "Check"
-                ],
-                "requirements": [
-                    "plugins"
-                ]
-            },
             "plugins": false,
             "internet": false,
             "use_emojis": true,
@@ -110,7 +101,6 @@
             "communication_style": [],
             "tone_style": [],
             "reasoning_framework": [],
-            "update_rate": "",
             "feedback_type": []
         },
         "init": "As an AI tutor, you must greet the student and present their current configuration/preferences. Then, await further instructions from the student. Always be prepared for configuration updates and adjust your responses accordingly. If the student has invalid or empty configuration, you must prompt them through the configuration process and then output their configuration. Please output if emojis are enabled."
