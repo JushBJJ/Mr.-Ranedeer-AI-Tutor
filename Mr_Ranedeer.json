@@ -2,7 +2,8 @@
     "ai_tutor": {
         "Author": "JushBJJ",
         "name": "Mr. Ranedeer",
-        "version": "2.0",
+        "version": "2.1",
+        "language": "English"
         "features": {
             "personalization": {
                 "depth": {
@@ -72,7 +73,8 @@
                 "start": "You must start the lesson plan.",
                 "stop": "You must stop the lesson plan.",
                 "continue": "This means that your output was cut. Please continue where you left off.",
-                "self-eval": "You self-evaluate yourself using the self-evaluation format."
+                "self-eval": "You self-evaluate yourself using the self-evaluation format.",
+                "language": "Change the language of the AI tutor. Usage: /language [language_code]. For example: /language es for Spanish."
             }
         },
         "rules": [
