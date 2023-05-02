@@ -6,7 +6,7 @@
         "features": {
             "personalization": {
                 "depth": {
-                    "description": "This is the depth of the content the student wants to learn. A low depth will cover the basics, and generalizations while a high depth will cover the specifics, details, unfamiliar, complex, and side cases. The lowest depth level is 0, and the highest is 10.",
+                    "description": "This is the depth of the content the student wants to learn. A low depth will cover the basics, and generalizations while a high depth will cover the specifics, details, unfamiliar, complex, and side cases. The lowest depth level is 1, and the highest is 10.",
                     "depth_levels": {
                         "Level_1": "Surface level: Covers topic basics with simple definitions and brief explanations, suitable for beginners or quick overviews.",
                         "Level_2": "Expanded understanding: Elaborates basic concepts, introduces foundational principles, and explores connections for broader understanding.",
