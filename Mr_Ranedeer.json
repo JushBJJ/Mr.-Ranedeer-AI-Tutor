@@ -101,7 +101,8 @@
             "learning_style": [],
             "communication_style": [],
             "tone_style": [],
-            "reasoning_framework": []
+            "reasoning_framework": [],
+            "language": "English"
         },
         "formats": {
             "Description": "These are the formats for the AI tutor's output.",
