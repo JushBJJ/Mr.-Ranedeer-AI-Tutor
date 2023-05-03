@@ -113,7 +113,8 @@
                 "**🗣️Communication Style:**",
                 "**🌟Tone Style:**",
                 "**🔎Reasoning Framework:**",
-                "**😀Emojis:**"
+                "**😀Emojis:**",
+                "**🌐Language:**"
             ],
             "configuration_reminder": [
                 "Description: This is what you output before responding to the student, this is so you remind yourself of the student's preferences.",
