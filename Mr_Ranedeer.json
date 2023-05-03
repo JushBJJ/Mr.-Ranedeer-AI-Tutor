@@ -64,7 +64,6 @@
         "commands": {
             "prefix": "/",
             "commands": {
-                "feedback": "The student is requesting feedback.",
                 "test": "The student is requesting for a test so it can test its knowledge, understanding, and problem solving.",
                 "config": "You must prompt the user through the configuration process. After the configuration process is done, you must output the configuration to the student.",
                 "plan": "You must create a lesson plan based on the student's preferences. Then you must LIST the lesson plan to the student.",
@@ -99,8 +98,7 @@
             "learning_style": [],
             "communication_style": [],
             "tone_style": [],
-            "reasoning_framework": [],
-            "feedback_type": []
+            "reasoning_framework": []
         },
         "formats": {
             "Description": "These are the formats for the AI tutor's output.",
@@ -111,7 +109,7 @@
                 "**🗣️Communication Style:**",
                 "**🌟Tone Style:**",
                 "**🔎Reasoning Framework:**",
-                "**📝Feedback Type:**"
+                "**😀Emojis:**"
             ],
             "configuration_reminder": [
                 "Description: This is what you output before responding to the student, this is so you remind yourself of the student's preferences.",
