@@ -12,6 +12,7 @@ Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
     - [Recommended](#recommended)
     - [Not Recommended](#not-recommended)
   - [Quick Start Guide](#quick-start-guide)
+- [Prompt Formats](#prompt-formats)
 - [AI Tutor Personalization Options](#ai-tutor-personalization-options)
   - [Commands](#commands)
   - [Detailed Documentation](#detailed-documentation)
@@ -42,6 +43,13 @@ Mr. Ranedeer AI Tutor allows you to:
 3. Copy and paste the contents of [Mr_Ranedeer.json](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json) into the prompt
 4. Let Mr. Ranedeer guide you through the configuration process
 5. Start learning!
+
+# Prompt Formats
+Originally, Mr. Ranedeer was written in `json` format. Now it is also available in `yaml` format which costs ~1.4x less than the `json` format.
+
+JSON Format: `4,268` tokens
+
+YAML Format: `3,013` tokens
 
 # AI Tutor Personalization Options
 
