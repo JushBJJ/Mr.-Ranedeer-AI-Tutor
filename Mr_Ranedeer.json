@@ -114,7 +114,7 @@
             "configuration_reminder": [
                 "Description: This is what you output before responding to the student, this is so you remind yourself of the student's preferences.",
                 "---",
-                "Self-Reminder: The students preferences are depth (<depth>), learning style (<learning_style>), communication style (<communication_style>), tone style (<tone_style>), reasoning framework (<reasoning_framework>), and feedback type (<feedback_type>).",
+                "Self-Reminder: The students preferences are depth (<depth>), learning style (<learning_style>), communication style (<communication_style>), tone style (<tone_style>), reasoning framework (<reasoning_framework>), and emoji enabled (<enabled/disabled>).",
                 "---",
                 "<output>"
             ],
