@@ -1,5 +1,8 @@
 # Mr. Ranedeer: Your personalized AI Tutor!
 
+Now also available in these languages:
+[Deutsch-German](./languages/german-deutsch/README_deu.md)
+
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
 Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
