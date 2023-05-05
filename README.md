@@ -15,8 +15,12 @@ Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
 - [Prompt Formats](#prompt-formats)
 - [AI Tutor Personalization Options](#ai-tutor-personalization-options)
   - [Commands](#commands)
+  - [Disclaimer](#disclaimer)
   - [Detailed Documentation](#detailed-documentation)
 - [Screenshots](#screenshots)
+- [Chinese](#chinese)
+- [Russian](#russian)
+- [Spanish](#spanish)
 
 ## Why Mr. Ranedeer AI Tutor?
 
@@ -47,9 +51,9 @@ Mr. Ranedeer AI Tutor allows you to:
 # Prompt Formats
 Originally, Mr. Ranedeer was written in `json` format. Now it is also available in `yaml` format which costs ~1.4x less than the `json` format.
 
-JSON Format: `4,267` tokens
+JSON Format: `4,336` tokens
 
-YAML Format: `2,988` tokens
+YAML Format: `2995` tokens
 
 # AI Tutor Personalization Options
 
