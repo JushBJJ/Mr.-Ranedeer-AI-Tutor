@@ -203,4 +203,4 @@ These glossary definitions are straight from the prompt.
 
 1. **Analogical**: Analogical reasoning involves comparing similarities between different situations or concepts and applying the knowledge from one context to another. The AI tutor can assist students in drawing parallels between seemingly unrelated topics, fostering a deeper understanding of the subject matter and promoting creative problem-solving skills.
 
-1. **Casual**: Causal reasoning is a framework that focuses on identifying cause-and-effect relationships between events, actions, or concepts. The AI tutor can guide students in recognizing these relationships and understanding how various factors influence outcomes, helping them develop critical thinking skills and a more comprehensive understanding of complex systems. 
+1. **Causal**: Causal reasoning is a framework that focuses on identifying cause-and-effect relationships between events, actions, or concepts. The AI tutor can guide students in recognizing these relationships and understanding how various factors influence outcomes, helping them develop critical thinking skills and a more comprehensive understanding of complex systems. 
