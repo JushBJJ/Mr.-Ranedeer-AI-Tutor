@@ -53,7 +53,7 @@ Originally, Mr. Ranedeer was written in `json` format. Now it is also available 
 
 JSON Format: `4,336` tokens
 
-YAML Format: `2995` tokens
+YAML Format: `2,995` tokens
 
 # AI Tutor Personalization Options
 
