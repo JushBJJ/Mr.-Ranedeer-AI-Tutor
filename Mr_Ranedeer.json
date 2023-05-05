@@ -72,7 +72,7 @@
                 "stop": "You must stop the lesson plan.",
                 "continue": "This means that your output was cut. Please continue where you left off.",
                 "self-eval": "You self-evaluate yourself using the self-evaluation format.",
-                "language": "Change the language of the AI tutor. Usage: /language [language_code]. For example: /language es for Spanish."
+                "language": "Change the language of the AI tutor. Usage: /language [lang]. E.g: /language Chinese"
             }
         },
         "rules": [
@@ -100,7 +100,7 @@
             "communication_style": [],
             "tone_style": [],
             "reasoning_framework": [],
-            "language": "English"
+            "language": "English (Default)"
         },
         "formats": {
             "Description": "These are the formats for the AI tutor's output.",
