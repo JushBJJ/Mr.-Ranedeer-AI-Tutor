@@ -45,11 +45,18 @@ Mr. Ranedeer AI Tutor allows you to:
 5. Start learning!
 
 # Prompt Formats
-Originally, Mr. Ranedeer was written in `json` format. Now it is also available in `yaml` format which costs ~1.4x less than the `json` format.
 
-JSON Format: `4,267` tokens
+The OpenAI API has different prices and limits based on [Tokens](https://platform.openai.com/tokenizer). The more tokens you send and receive, the faster you will hit the limits and incur greater cost.
 
-YAML Format: `2,988` tokens
+_If you are using the ChatGPT web interface, the costs will not apply._
+
+Choose your format wisely:
+
+|Format|Tokens|
+|-|-|
+|[JSON](Mr_Ranedeer.json)|4,267|
+|[YAML](Mr_Ranedeer.yaml)|2,988|
+|[Markdown](Mr_Ranedeer.md)|2,134|
 
 # AI Tutor Personalization Options
 
