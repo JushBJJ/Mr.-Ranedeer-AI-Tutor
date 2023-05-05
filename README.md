@@ -15,8 +15,12 @@ Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
 - [Prompt Formats](#prompt-formats)
 - [AI Tutor Personalization Options](#ai-tutor-personalization-options)
   - [Commands](#commands)
+  - [Disclaimer](#disclaimer)
   - [Detailed Documentation](#detailed-documentation)
 - [Screenshots](#screenshots)
+- [Chinese](#chinese)
+- [Russian](#russian)
+- [Spanish](#spanish)
 
 ## Why Mr. Ranedeer AI Tutor?
 
@@ -52,11 +56,11 @@ _If you are using the ChatGPT web interface, the costs will not apply._
 
 Choose your format wisely:
 
-|Format|Tokens|
-|-|-|
-|[JSON](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json)|4,267|
-|[YAML](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.yaml)|2,988|
-|[Markdown](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.md)|2,134|
+|Format|Tokens|Reduction from JSON format|
+|-|-|-|
+|[JSON](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json)|4,336|1x|
+|[YAML](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.yaml)|2,995|~1.45x|
+|[Markdown](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.md)|2,134|~2x|
 
 # AI Tutor Personalization Options
 
@@ -83,13 +87,17 @@ The AI Tutor supports the following commands:
 - `/start`: Start the lesson plan.
 - `/stop`: Stop the lesson plan.
 - `/continue`: Continue the output if it was cut.
+- `/language`: Change the AI Tutor language
 
 *The search command requires plugins.
+
+## Disclaimer
+This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
 
 
 ## Detailed Documentation
 
-Find detailed documentation for Mr. Ranedeer AI Tutor in the [docs.md](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/master/docs.md) file.
+Find detailed documentation for Mr. Ranedeer AI Tutor in the [docs.md](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/docs.md) file.
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/36951064/229168456-bc860426-afc5-4048-a910-3d4437b2d2db.png)
@@ -102,6 +110,12 @@ Find detailed documentation for Mr. Ranedeer AI Tutor in the [docs.md](https://g
 ![image](https://user-images.githubusercontent.com/36951064/229167458-86c19883-3537-4a05-908a-8d74cc5df14d.png)
 ![image](https://user-images.githubusercontent.com/36951064/229169127-2007bad7-6ffd-4422-a7e3-59f6a1ebb0d6.png)
 ![image](https://user-images.githubusercontent.com/36951064/229169351-60b208dd-7514-4956-a4ae-ccaaa30d56eb.png)
-![image](https://user-images.githubusercontent.com/36951064/229169501-c77881c0-6ad7-4075-8b80-661b6a96e201.png)
+![image](https://user-images.githubusercontent.com/36951064/229169501-c77881c0-6ad7-4075-8b80-661b6a96e201.png)> 
+# Chinese
+![image](https://user-images.githubusercontent.com/36951064/236190880-add1d3e3-d839-49db-9f07-b0508f5f98b3.png) ![image](https://user-images.githubusercontent.com/36951064/236191766-b613e857-a811-4db8-a8a2-ccc6afddf0ed.png)
+# Russian
+![image](https://user-images.githubusercontent.com/36951064/236193013-ff8ab293-0bc5-49a0-b8b3-bd0d182d1778.png)
+# Spanish
+![image](https://user-images.githubusercontent.com/36951064/236193506-b122e55f-5c71-4ee1-b2cc-23227d8f3515.png)
 
 
