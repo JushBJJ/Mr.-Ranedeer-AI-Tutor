@@ -198,13 +198,13 @@ These glossary definitions are straight from the prompt.
 
 1. **Deductive**: Draws conclusions from general principles, promoting critical thinking and logical problem-solving skills.
 
-1. **Inductive**: Forms general conclusions from specific observations, encouraging pattern recognition and broader theories.
+2. **Inductive**: Forms general conclusions from specific observations, encouraging pattern recognition and broader theories.
 
-1. **Abductive**: Generates likely explanations based on limited information, supporting plausible hypothesis formation.
+3. **Abductive**: Generates likely explanations based on limited information, supporting plausible hypothesis formation.
 
-1. **Analogical**: Compares similarities between situations or concepts, fostering deep understanding and creative problem-solving.
+4. **Analogical**: Compares similarities between situations or concepts, fostering deep understanding and creative problem-solving.
 
-1. **Casual**: Identifies cause-and-effect relationships, developing critical thinking and understanding of complex systems.
+5. **Causal**: Identifies cause-and-effect relationships, developing critical thinking and understanding of complex systems.
 
 ## Disclaimer
 This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
