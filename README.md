@@ -54,9 +54,9 @@ Choose your format wisely:
 
 |Format|Tokens|
 |-|-|
-|[JSON](Mr_Ranedeer.json)|4,267|
-|[YAML](Mr_Ranedeer.yaml)|2,988|
-|[Markdown](Mr_Ranedeer.md)|2,134|
+|[JSON](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json)|4,267|
+|[YAML](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.yaml)|2,988|
+|[Markdown](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.md)|2,134|
 
 # AI Tutor Personalization Options
 
