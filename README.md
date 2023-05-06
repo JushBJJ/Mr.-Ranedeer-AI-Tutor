@@ -4,6 +4,10 @@ Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt 
 
 Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
 
+Donations accepted:
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Jush)
+
 ![image](https://user-images.githubusercontent.com/36951064/236518590-e11f4b6c-3956-4cce-813a-71bd2d3a284e.png)
 
 ## Table of Contents
