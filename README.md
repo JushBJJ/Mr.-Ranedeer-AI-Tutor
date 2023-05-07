@@ -19,6 +19,7 @@ Donations accepted:
     - [Not Recommended](#not-recommended)
   - [Quick Start Guide](#quick-start-guide)
 - [Prompt Formats](#prompt-formats)
+  - [Previous Versions](#previous-versions)
 - [AI Tutor Personalization Options](#ai-tutor-personalization-options)
 - [Commands](#commands)
 - [Different Languages](#different-languages)
@@ -77,13 +78,24 @@ You can run Mr. Ranedeer in the following formats:
 
 |Format|Tokens|Reduction from JSON format|
 |-|-|-|
-|[JSON](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json)|4,336|1x|
-|[YAML](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.yaml)|2,995|~1.45x|
-|[Markdown](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.md)|2,189|~1.98x|
+|[JSON](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json)|3,896|1x|
+|[YAML](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.yaml)|2,646|~1.47x|
+|[Markdown](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.md)|1280|~3x|
 
 The OpenAI API has different prices and limits based on [Tokens](https://platform.openai.com/tokenizer). The more tokens you send and receive, the faster you will hit the limits and incur greater cost.
 
 _If you are using the ChatGPT web interface, the costs will not apply._
+
+## Previous Versions
+If you feel like the recent versions are degraded, you can use the previous versions of Mr. Ranedeer AI Tutor.
+
+|Version|Tokens (JSON)|
+|-|-|
+|[v2.4.16 (Current)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|3,896|
+|[v2.4.11](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/dce8ae6979153ca386758719d1f60aa64a74ed05)|4,336|
+|[v2.3.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/59b5339a07b7f8ac765a9e2010fe34e1b2199971)|4,267|
+|[v2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/3b03ee94f5ff5e010e0a949419521b0236ad8019)|4,484|
+
 # AI Tutor Personalization Options
 
 This section outlines the various configuration options available to students using the AI Tutor. These options can be modified to customize the learning experience.
