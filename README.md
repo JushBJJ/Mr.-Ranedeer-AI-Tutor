@@ -80,7 +80,7 @@ You can run Mr. Ranedeer in the following formats:
 |-|-|-|
 |[JSON](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json)|3,896|1x|
 |[YAML](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.yaml)|2,646|~1.47x|
-|[Markdown](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.md)|1280|~3x|
+|[Markdown](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.md)|1820|~2.14x|
 
 The OpenAI API has different prices and limits based on [Tokens](https://platform.openai.com/tokenizer). The more tokens you send and receive, the faster you will hit the limits and incur greater cost.
 
