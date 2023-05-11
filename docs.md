@@ -103,6 +103,7 @@ The AI Tutor supports the following commands:
 - `/start`: Start the lesson plan.
 - `/stop`: Stop the lesson plan.
 - `/continue`: Continue the output if it was cut.
+- `/language`: Change the AI Tutor language
 
 ## Rules
 
@@ -141,25 +142,25 @@ These glossary definitions are straight from the prompt.
 
 ## Depth
 
-1. **Surface level understanding**: This level covers the basics of a topic, providing simple definitions and brief explanations. Content is kept concise and straightforward, ideal for beginners or those seeking a quick overview. 
+1. **Surface level understanding**: Covers topic basics with simple definitions and brief explanations, suitable for beginners or quick overviews.
   
-2. **Expanded understanding**: At this level, the AI tutor elaborates on the basic concepts, introducing foundational principles and exploring their connections. Students gain a broader understanding of the topic while still maintaining a focus on core ideas.
+2. **Expanded understanding**: Elaborates basic concepts, introduces foundational principles, and explores connections for broader understanding.
 
-3. **Detailed analysis**: This level delves deeper into the topic, providing in-depth explanations, examples, and context. Students learn about the various components and their interrelationships, as well as any relevant theories or models.
+3. **Detailed analysis**: Provides in-depth explanations, examples, and context, discussing components, interrelationships, and relevant theories.
 
-4. **Practical application**: At this level, the AI tutor emphasizes the practical aspects of the topic, discussing real-world applications, case studies, and problem-solving techniques. Students learn how to apply their knowledge to address real-world situations effectively.
+4. **Practical application**: Focuses on real-world applications, case studies, and problem-solving techniques for effective knowledge application.
 
-5. **Advanced concepts**: This level introduces more advanced concepts, techniques, and tools related to the topic. Students learn about cutting-edge developments, innovations, and research in the field.
+5. **Advanced concepts**: Introduces advanced techniques and tools, covering cutting-edge developments, innovations, and research.
 
-6. **Critical evaluation**: At this level, the AI tutor encourages students to think critically about the topic, questioning assumptions, analyzing arguments, and considering alternative perspectives. Students develop the ability to evaluate information and form their own opinions.
+6. **Critical evaluation**: Encourages critical thinking, questioning assumptions, and analyzing arguments to form independent opinions.
 
-7. **Synthesis and integration**: This level focuses on synthesizing and integrating knowledge from various sources, drawing connections between different topics, and identifying overarching themes. Students learn to see the bigger picture and develop a more comprehensive understanding of the subject matter.
+7. **Synthesis and integration**: Synthesizes knowledge from various sources, connecting topics and themes for comprehensive understanding.
 
-8. **Expert insight**: At this level, the AI tutor provides expert insight into the topic, discussing nuances, complexities, and potential challenges. Students learn about the latest trends, debates, and controversies in the field.
+8. **Expert insight**: Provides expert insight into nuances, complexities, and challenges, discussing trends, debates, and controversies.
 
-9.  **Specialization**: This level allows students to focus on a specific subfield or niche area within the topic, delving into highly specialized knowledge and developing expertise in their chosen area.
+9.  **Specialization**: Focuses on specific subfields, delving into specialized knowledge and fostering expertise in chosen areas.
 
-10. **Cutting-edge research**: At this level, the AI tutor discusses the most recent research and discoveries in the field, providing students with a deep understanding of current developments and the potential future direction of the topic.
+10. **Cutting-edge research**: Discusses recent research and discoveries, offering deep understanding of current developments and future directions.
 
 
 ## Learning Styles
@@ -177,30 +178,33 @@ These glossary definitions are straight from the prompt.
 
 ## Communication Styles
 
-1. **Stochastic**: A stochastic communication style involves incorporating an element of randomness or variability in the responses. In this style, the AI tutor may generate answers with slight variations each time, even if the core information remains the same. This can make the conversation feel more dynamic and less repetitive, as it mimics the natural variations seen in human communication.
-2. **Formal**: A formal communication style adheres to strict grammatical rules, uses complete sentences, and avoids contractions, slang, or colloquial expressions. The AI tutor, when using this style, would provide information in a structured and polished manner, similar to what one would expect in an academic or professional setting.
-3. **Textbook**: A book-like communication style resembles the language used in textbooks or other written materials. It is characterized by well-structured sentences, rich vocabulary, and a focus on clarity and coherence. In this style, the AI tutor would present information in a manner similar to how it is conveyed in books, emphasizing detail and context to provide a comprehensive understanding of the subject matter.
-4. **Layman**: A layman communication style is designed to be easily accessible and understood by individuals without specialized knowledge in a particular subject. The AI tutor, when using this style, would simplify complex concepts, use everyday language, and provide relatable examples to explain the topic at hand. This approach aims to make the learning process more approachable and engaging for users with varying levels of prior knowledge.
-5. **Story Telling**: In a storytelling communication style, the AI tutor presents information by weaving it into narratives or anecdotes. This approach can make complex ideas more engaging and memorable by connecting them to relatable stories or scenarios, fostering a deeper understanding of the subject matter.
-6. **Socratic**: The Socratic communication style involves the AI tutor asking thought-provoking questions that encourage the student to reflect on their understanding and develop their critical thinking skills. This approach is based on the Socratic method of teaching, which aims to stimulate intellectual curiosity and facilitate self-directed learning.
-7. **Humorous**: A humorous communication style involves incorporating wit, jokes, or light-hearted elements into the learning process. The AI tutor would use humor to make the content more enjoyable, engaging, and memorable, helping to create a fun and relaxed learning atmosphere.
+1. **Stochastic**: Incorporates randomness or variability, generating slight variations in responses for a dynamic, less repetitive conversation.
+2. **Formal**: Follows strict grammatical rules and avoids contractions, slang, or colloquialisms for a structured and polished presentation.
+3. **Textbook**: Resembles language in textbooks, using well-structured sentences, rich vocabulary, and focusing on clarity and coherence.
+4. **Layman**: Simplifies complex concepts, using everyday language and relatable examples for accessible and engaging explanations.
+5. **Story Telling**: Presents information through narratives or anecdotes, making ideas engaging and memorable with relatable stories.
+6. **Socratic**: Asks thought-provoking questions to stimulate intellectual curiosity, critical thinking, and self-directed learning.
+7. **Humorous**: Incorporates wit, jokes, and light-hearted elements for enjoyable, engaging, and memorable content in a relaxed atmosphere.
 
 ## Tone Styles
 
-1. **Debate**: A competitive tone is characterized by a sense of urgency and a desire to win. The AI tutor, when using this tone, would present information in a manner that is more assertive and aggressive, and would challenge the user to think critically and defend their position. This approach is best suited for users who are more confident and comfortable with a competitive learning environment.
-2. **Encouraging**: An encouraging tone is characterized by a sense of support and positivity. The AI tutor, when using this tone, would present information in a manner that is more supportive and empathetic, and would provide positive reinforcement to the user. This approach is best suited for users who are more sensitive and prefer a more collaborative learning environment.
-3. **Neutral**: A neutral tone is characterized by a sense of neutrality and objectivity. The AI tutor, when using this tone, would present information in a manner that is more objective and impartial, and would avoid taking sides or expressing strong opinions. This approach is best suited for users who are more reserved and prefer a more neutral learning environment.
-4. **Informative**: An informative tone is characterized by a sense of clarity and precision. The AI tutor, when using this tone, would present information in a manner that is more factual and straightforward, and would avoid using emotional language. This approach is best suited for users who are more analytical and prefer a more objective learning environment.
-5. **Friendly**: A friendly tone is characterized by a sense of warmth and familiarity. The AI tutor, when using this tone, would present information in a manner that is more casual and conversational, and would use friendly language to establish a connection with the user. This approach is best suited for users who are more extroverted and prefer a more personal learning environment.
+1. **Debate**: Assertive and competitive, challenges users to think critically and defend their position. Suitable for confident learners.
+2. **Encouraging**:Supportive and empathetic, provides positive reinforcement. Ideal for sensitive learners preferring collaboration.
+3. **Neutral**: Objective and impartial, avoids taking sides or expressing strong opinions. Fits reserved learners valuing neutrality.
+4. **Informative**: Clear and precise, focuses on facts and avoids emotional language. Ideal for analytical learners seeking objectivity.
+5. **Friendly**: Warm and conversational, establishes connection using friendly language. Best for extroverted learners preferring personal interactions.
 
 ## Reasoning Styles
 
-1. **Deductive**: Deductive reasoning is a framework where conclusions are drawn based on general principles or premises. The AI tutor can guide students in forming logical conclusions by applying these general rules to specific situations, promoting critical thinking and logical problem-solving skills.
+1. **Deductive**: Draws conclusions from general principles, promoting critical thinking and logical problem-solving skills.
 
-1. **Inductive**: Inductive reasoning involves drawing general conclusions from specific observations or instances. The AI tutor can help students recognize patterns and trends in the information they've encountered, encouraging them to form broader theories or generalizations from these observations.
+2. **Inductive**: Forms general conclusions from specific observations, encouraging pattern recognition and broader theories.
 
-1. **Abductive**: Abductive reasoning is a framework that involves forming the most likely explanation or hypothesis based on limited or incomplete information. The AI tutor can support students in generating plausible explanations for observed phenomena or solving problems when all the necessary information is not readily available.
+3. **Abductive**: Generates likely explanations based on limited information, supporting plausible hypothesis formation.
 
-1. **Analogical**: Analogical reasoning involves comparing similarities between different situations or concepts and applying the knowledge from one context to another. The AI tutor can assist students in drawing parallels between seemingly unrelated topics, fostering a deeper understanding of the subject matter and promoting creative problem-solving skills.
+4. **Analogical**: Compares similarities between situations or concepts, fostering deep understanding and creative problem-solving.
 
-1. **Casual**: Causal reasoning is a framework that focuses on identifying cause-and-effect relationships between events, actions, or concepts. The AI tutor can guide students in recognizing these relationships and understanding how various factors influence outcomes, helping them develop critical thinking skills and a more comprehensive understanding of complex systems. 
+5. **Causal**: Identifies cause-and-effect relationships, developing critical thinking and understanding of complex systems.
+
+## Disclaimer
+This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
