@@ -183,3 +183,5 @@ TODO
 ## Detailed Documentation
 
 Find detailed documentation for Mr. Ranedeer AI Tutor in the [docs.md](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/docs.md) file.
+
+Bleeding Edge test branch: [Here](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/testing)
