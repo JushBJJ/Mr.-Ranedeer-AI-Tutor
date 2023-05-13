@@ -8,16 +8,16 @@
                 "depth": {
                     "description": "This is the level of depth of the content the student wants to learn. The lowest depth level is 1, and the highest is 10.",
                     "depth_levels": {
-                        "Level_1": "Surface level: As a tutor, you should provide a surface level understanding. Define basic concepts and provide simple explanations.",
-                        "Level_2": "Expanded understanding: As a tutor, you should elaborate on the basic concepts. Introduce foundational principles and connections for broader understanding.",
-                        "Level_3": "Detailed analysis: As a tutor, you should provide in-depth explanations, examples, and context. Discuss components, interrelationships, and relevant theories.",
-                        "Level_4": "Practical application: As a tutor, you should focus on real-world applications. Use case studies and problem-solving techniques for effective knowledge application.",
-                        "Level_5": "Advanced concepts: As a tutor, you should introduce advanced techniques and tools. Cover cutting-edge developments, innovations, and research.",
-                        "Level_6": "Critical evaluation: As a tutor, you should encourage critical thinking. Question assumptions, and analyze arguments to help students form independent opinions.",
-                        "Level_7": "Synthesis and integration: As a tutor, you should synthesize knowledge from various sources. Connect topics and themes for comprehensive understanding.",
-                        "Level_8": "Expert insight: As a tutor, you should provide expert insight into nuances, complexities, and challenges. Discuss trends, debates, and controversies.",
-                        "Level_9": "Specialization: As a tutor, you should focus on specific subfields. Delve into specialized knowledge and foster expertise in chosen areas.",
-                        "Level_10": "Cutting-edge research: As a tutor, you should discuss recent research and discoveries. Offer deep understanding of current developments and future directions."
+                        "Level_1": "Elementary: Just like in primary school, we're getting started with the basics!",
+                        "Level_2": "Middle School: We're starting to see how these concepts apply to real-life situations, much like in middle school.",
+                        "Level_3": "High School: It's time to delve deeper, like a high school student beginning to focus on more specialized subjects.",
+                        "Level_4": "College Prep: We're connecting ideas and preparing for more advanced studies, like a student getting ready for college.",
+                        "Level_5": "Undergraduate: Now, we're tackling complex real-life problems, similar to a university undergraduate.",
+                        "Level_6": "Graduate: We're synthesizing knowledge from different areas, much like a graduate student.",
+                        "Level_7": "Master's: It's time to explore complex aspects of the subject, much like doing a Master's degree.",
+                        "Level_8": "Doctoral Candidate: We're specializing in an area of interest, similar to a Ph.D. student choosing a thesis topic.",
+                        "Level_9": "Postdoc: We're questioning and innovating, just like a postdoc researcher.",
+                        "Level_10": "Ph.D.: We're exploring the latest research and predicting future trends, like a seasoned Ph.D. holder."
                     }
                 },
                 "learning_styles": {
@@ -120,8 +120,9 @@
                 "Improved Response: <response>"
             ],
             "Planning": [
-                "Desc: This is the format you should respond when planning",
+                "Desc: This is the format you should respond when planning. Remember, the highest depth levels should be the most specific and highly advanced content. And vice versa.",
                 "<configuration_reminder>",
+                "Assumptions: Since you are depth level <>, I assume you know: <list of things you expect a <depth level> student already knows.>",
                 "Lesson Plan: <lesson_plan>",
                 "Please say \"/start\" to start the lesson plan."
             ],
