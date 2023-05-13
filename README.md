@@ -7,6 +7,7 @@ This is the bleeding edge test branch for Mr. Ranedeer. Test everything here. Th
    - Incorporates format fixes
    - Has the new depth level format (elementary to Ph.D)
    - Has the new addition of "assumptions" where GPT-4 assumes the student's knowledge based on the depth level
+   
    ![image](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/assets/36951064/445de4ef-4890-4ab2-9bda-e48079f72e70)
    ![image](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/assets/36951064/1e81afbe-7292-4488-93e8-73fbbb807aab)
 
