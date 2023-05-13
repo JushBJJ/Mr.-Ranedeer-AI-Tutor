@@ -11,6 +11,9 @@ This is the bleeding edge test branch for Mr. Ranedeer. Test everything here. Th
    ![image](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/assets/36951064/445de4ef-4890-4ab2-9bda-e48079f72e70)
    ![image](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/assets/36951064/1e81afbe-7292-4488-93e8-73fbbb807aab)
 
+# Issues
+For "Format-Fix_and_depth_change_v2.json", having GPT-4 say the depth number (instead of the role) further simplifies lesson plan
+![image](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/assets/36951064/53b8aa13-c113-40bf-b875-91d1d3095bf0)
 
 # Notes
 - The issue of Mr. Ranedeer not following a strict format is fixed (?). More testing needed, although by giving GPT-4 a more coherent explanation of what to do gives better results than shortened responses. It's a sacrifice for token count but its worth it for quality.
