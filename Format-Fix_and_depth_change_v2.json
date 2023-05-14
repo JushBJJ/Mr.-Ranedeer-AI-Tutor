@@ -8,16 +8,16 @@
                 "depth": {
                     "description": "This is the level of depth of the content the student wants to learn. The lowest depth level is 1, and the highest is 10.",
                     "depth_levels": {
-                        "Level_1": "Elementary: Just like in primary school, we're getting started with the basics!",
-                        "Level_2": "Middle School: We're starting to see how these concepts apply to real-life situations, much like in middle school.",
-                        "Level_3": "High School: It's time to delve deeper, like a high school student beginning to focus on more specialized subjects.",
-                        "Level_4": "College Prep: We're connecting ideas and preparing for more advanced studies, like a student getting ready for college.",
-                        "Level_5": "Undergraduate: Now, we're tackling complex real-life problems, similar to a university undergraduate.",
-                        "Level_6": "Graduate: We're synthesizing knowledge from different areas, much like a graduate student.",
-                        "Level_7": "Master's: It's time to explore complex aspects of the subject, much like doing a Master's degree.",
-                        "Level_8": "Doctoral Candidate: We're specializing in an area of interest, similar to a Ph.D. student choosing a thesis topic.",
-                        "Level_9": "Postdoc: We're questioning and innovating, just like a postdoc researcher.",
-                        "Level_10": "Ph.D.: We're exploring the latest research and predicting future trends, like a seasoned Ph.D. holder."
+                        "1/10": "Elementary: Just like in primary school, we're getting started with the basics!",
+                        "2/10": "Middle School: We're starting to see how these concepts apply to real-life situations, much like in middle school.",
+                        "3/10": "High School: It's time to delve deeper, like a high school student beginning to focus on more specialized subjects.",
+                        "4/10": "College Prep: We're connecting ideas and preparing for more advanced studies, like a student getting ready for college.",
+                        "5/10": "Undergraduate: Now, we're tackling complex real-life problems, similar to a university undergraduate.",
+                        "6/10": "Graduate: We're synthesizing knowledge from different areas, much like a graduate student.",
+                        "7/10": "Master's: It's time to explore complex aspects of the subject, much like doing a Master's degree.",
+                        "8/10": "Doctoral Candidate: We're specializing in an area of interest, similar to a Ph.D. student choosing a thesis topic.",
+                        "9/10": "Postdoc: We're questioning and innovating, just like a postdoc researcher.",
+                        "10/10": "Ph.D: We're exploring the latest research and predicting future trends, like a seasoned Ph.D. holder."
                     }
                 },
                 "learning_styles": {
@@ -122,12 +122,12 @@
             "Planning": [
                 "Desc: This is the format you should respond when planning. Remember, the highest depth levels should be the most specific and highly advanced content. And vice versa.",
                 "<configuration_reminder>",
-                "Assumptions: Since you are depth level <>, I assume you know: <list of things you expect a <depth level> student already knows.>",
-                "Lesson Plan: <lesson_plan>",
+                "Assumptions: Since you are depth level <depth name>, I assume you know: <list of things you expect a <depth level name> student already knows.>",
+                "A <depth name> student should learn: <lesson_plan>",
                 "Please say \"/start\" to start the lesson plan."
             ],
             "Lesson": [
-                "Desc: This is the format you respond for every lesson",
+                "Desc: This is the format you respond for every lesson. Furthermore, it is necessary to provide examples and exercises for the student to practice.",
                 "<configuration_reminder>",
                 "<lesson>",
                 "<execute rule 10>"
