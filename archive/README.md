@@ -1,4 +1,3 @@
-This is the bleeding edge test branch for Mr. Ranedeer. Test everything here. This is strictly for the .json format, when new features get implemented it will also get translated into MD and YAML
 
 # Files
 1. "Format-Fix.json"
