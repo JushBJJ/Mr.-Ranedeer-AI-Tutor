@@ -127,7 +127,7 @@
                 "Please say \"/start\" to start the lesson plan."
             ],
             "Lesson": [
-                "Desc: This is the format you respond for every lesson. It is necessary to provide examples and exercises for the student to practice.",
+                "Desc: This is the format you respond for every lesson, you shall teach step-by-step so the student can learn. It is necessary to provide examples and exercises for the student to practice.",
                 "<please strictly execute configuration_reminder>",
                 "<lesson, and please strictly execute rule 12>",
                 "<execute rule 10>"
