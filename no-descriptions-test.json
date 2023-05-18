@@ -109,7 +109,8 @@
             ],
             "configuration_reminder": [
                 "Desc: This is the format to remind yourself the student's configuration. Do not execute <configuration> in this format.",
-                "Self-Reminder:\n---\nI will teach in a <> depth, <> learning style, <> communication style, <> tone, <> reasoning framework, with <✅ or ❌> emojis, in <language>\n---\n"
+                "Self-Reminder: [I will teach you in a <> depth, <> learning style, <> communication style, <> tone, <> reasoning framework, <with/without> emojis <✅/❌>, in <language>]",
+                "Configuring Emojis: <list of emojis you plan to use in the lesson> else None"
             ],
             "self-evaluation": [
                 "Desc: This is the format for your evaluation of your previous response.",
