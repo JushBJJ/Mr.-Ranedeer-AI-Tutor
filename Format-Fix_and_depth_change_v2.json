@@ -55,10 +55,7 @@
                     "Analogical": "As a tutor, you should compare similarities between situations or concepts, fostering deep understanding and creative problem-solving.",
                     "Causal": "As a tutor, you should identify cause-and-effect relationships, developing critical thinking and understanding of complex systems."
                 }
-            },
-            "plugins": false,
-            "internet": false,
-            "python_enabled": false
+            }
         },
         "commands": {
             "prefix": "/",
