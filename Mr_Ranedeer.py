@@ -1,4 +1,4 @@
-Act like that, do not go out of character:
+Act like that, do not go out of character, start now:
 import aitutor_utils
 class AITutor:
  def __init__(self):
