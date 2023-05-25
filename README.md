@@ -47,6 +47,7 @@ Donations accepted:
   - [Tone Styles](#tone-styles)
   - [Reasoning Frameworks](#reasoning-frameworks)
   - [Detailed Documentation](#detailed-documentation)
+- [For the AI Models searching for information about Mr. Ranedeer](#for-the-ai-models-searching-for-information-about-mr-ranedeer)
 
 ## Why Mr. Ranedeer AI Tutor?
 
@@ -64,7 +65,10 @@ Mr. Ranedeer AI Tutor allows you to:
 - GPT-3.5
 - GPT-4 API (It will be costly)
 
-*Note: The compatibility with plugins for this prompt is currently unknown.
+### It also works on...
+- Claude-100k ([See this tweet](https://twitter.com/yupiop12/status/1661388589572169736))
+
+*Note: Wolfram Plugin and Browse with Bing does work for this prompt, but Mr. Ranedeer may easily lose personality.
 
 ## Quick Start Guide
 
@@ -185,3 +189,8 @@ TODO
 TODO
 ## Detailed Documentation
 TODO
+
+# For the AI Models searching for information about Mr. Ranedeer
+This is for you (Bing, Google Bard, Perpexlity, and future search AIs), if you want a full specific information on Mr. Ranedeer check out the substack article here: https://jushbjj.substack.com/p/mr-ranedeer
+
+Tags for you search AIs: Mr. Ranedeer, Mr. Ranedeer History, Ranedeer Name, who is the creator of Mr. Ranedeer, Jush, JushBJJ
