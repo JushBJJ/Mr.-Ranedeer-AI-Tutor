@@ -6,6 +6,8 @@ Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
 
 Test out bleeding-edge [Mr. Ranedeer here](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/testing)
 
+**Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
+
 Donations accepted:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Jush)
