@@ -75,7 +75,7 @@ Mr. Ranedeer AI Tutor allows you to:
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/3946ee70-fb09-406e-8ed1-0ee756e4411f)
+1. Click [this link](https://chat.openai.com/share/3946ee70-fb09-406e-8ed1-0ee756e4411f) (**MUST HAVE CHATGPT PLUS**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
