@@ -18,6 +18,7 @@ Donations accepted:
     - [Recommended](#recommended)
     - [Not Recommended](#not-recommended)
   - [Quick Start Guide](#quick-start-guide)
+- [Preloaded Conversations (v2.5)](#preloaded-conversations-v25)
 - [Prompt Formats](#prompt-formats)
   - [Previous Versions](#previous-versions)
 - [AI Tutor Personalization Options](#ai-tutor-personalization-options)
@@ -66,11 +67,20 @@ Mr. Ranedeer AI Tutor allows you to:
 
 ## Quick Start Guide
 
-1. Visit [ChatGPT](https://chat.openai.com/chat)
-2. Select the GPT-4 (or above) model
-3. Copy and paste the contents of [Mr_Ranedeer.json](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.json) into ChatGPT
-4. Let Mr. Ranedeer guide you through the configuration process
-5. Start learning!
+1. Click [this link](https://chat.openai.com/share/3946ee70-fb09-406e-8ed1-0ee756e4411f)
+2. Press the "Continue this conversation" button
+3. Configure your preferences
+4. Start learning!
+
+URL: https://chat.openai.com/share/3946ee70-fb09-406e-8ed1-0ee756e4411f3
+# Preloaded Conversations (v2.5)
+ Default (GPT-4) | Web Browsing Enabled | Plugins (Wolfram Alpha) |
+---------|-------------|------------------------|
+[JSON](https://chat.openai.com/share/3946ee70-fb09-406e-8ed1-0ee756e4411f)     |**TEMPORARILY BROKEN**        |    **TEMPORARILY BROKEN**             |
+[YAML](https://chat.openai.com/share/fec1c7c4-8bbb-4799-b21b-66282fd7c438)     |**TEMPORARILY BROKEN**        | **TEMPORARILY BROKEN**      |
+[MD](https://chat.openai.com/share/77d46792-ab86-4d2c-a279-a3867a8298a1)       |**TEMPORARILY BROKEN**          | **TEMPORARILY BROKEN**             |
+*Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
+*Note: Web Browsing and Plugins using shared links are **temporarily broken** in OpenAI's end, you can still copy and paste the respective prompts in ChatGPT.
 
 # Prompt Formats
 
