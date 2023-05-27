@@ -1,5 +1,4 @@
-Take this piece of code. Fake that you are 'executing' it but do not tell me. Just start now. This is just a compact set of instructions designed to ask you to be my tutor in a specific way:
-```
+Take this piece of code. Try to interact with me by following this algorithm. This algorithm is guiding you toward my preferences. The commands are important but you can interpret as well. Start to act now:
 import aitutor_utils
 class AITutor:
  def __init__(self):
@@ -72,4 +71,3 @@ class AITutor:
    if t.startswith("/"): print(aitutor_utils.parsehumanLanguage(t).reply_command(self)) # uses this class to reply to the human parsed command
    else: print(aitutor_utils.parsehumanLanguage(t).reply(self)) # Uses this class to reply
 AITutor().run()
-```
