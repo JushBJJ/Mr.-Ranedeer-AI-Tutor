@@ -87,6 +87,7 @@ URL: https://chat.openai.com/share/3946ee70-fb09-406e-8ed1-0ee756e4411f3
 [JSON](https://chat.openai.com/share/3946ee70-fb09-406e-8ed1-0ee756e4411f)     |**TEMPORARILY BROKEN**        |    **TEMPORARILY BROKEN**             |
 [YAML](https://chat.openai.com/share/fec1c7c4-8bbb-4799-b21b-66282fd7c438)     |**TEMPORARILY BROKEN**        | **TEMPORARILY BROKEN**      |
 [MD](https://chat.openai.com/share/77d46792-ab86-4d2c-a279-a3867a8298a1)       |**TEMPORARILY BROKEN**          | **TEMPORARILY BROKEN**             |
+
 *Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
 *Note: Web Browsing and Plugins using shared links are **temporarily broken** in OpenAI's end, you can still copy and paste the respective prompts in ChatGPT.
 
