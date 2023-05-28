@@ -80,7 +80,10 @@ Mr. Ranedeer AI Tutor allows you to:
 3. Configure your preferences
 4. Start learning!
 
+![41v3yf5p](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/assets/36951064/2536e4f6-14bb-456c-9b2c-d4624de678f5)
+
 URL: https://chat.openai.com/share/3946ee70-fb09-406e-8ed1-0ee756e4411f3
+
 # Preloaded Conversations (v2.5)
  Default (GPT-4) | Web Browsing Enabled | Plugins (Wolfram Alpha) |
 ---------|-------------|------------------------|
