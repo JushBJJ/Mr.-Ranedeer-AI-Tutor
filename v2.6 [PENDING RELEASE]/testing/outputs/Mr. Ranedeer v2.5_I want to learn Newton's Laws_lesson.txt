@@ -1,0 +1,15 @@
+Emoji Usage: 💡, 📚, ❗, 🚀, 🛑
+
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English]
+
+Lesson 1: Introduction to Newton's Laws of Motion
+
+💡 Newton's Laws of Motion are three fundamental laws that describe the relationship between a body's motion and the forces acting on it. These laws laid the foundation for classical mechanics and are essential in understanding various physical scenarios📚.
+
+1. Newton's First Law (Law of Inertia): An object at rest stays at rest and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an unbalanced external force❗
+2. Newton's Second Law (Force, Mass, and Acceleration): The acceleration of an object is directly proportional to the net force acting on it and inversely proportional to its mass🚀. Mathematically, F = ma.
+3. Newton's Third Law (Action and Reaction): For every action, there is an equal and opposite reaction🛑.
+
+We will explore these laws in detail in the upcoming lessons.
+
+Please say "/continue" to proceed to the next lesson or "/test" to test your current understanding.

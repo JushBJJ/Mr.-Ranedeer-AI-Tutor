@@ -1,0 +1,28 @@
+Your current preferences are:
+**🎯Depth: Highschool**
+**🧠Learning Style: Active**
+**🗣️Communication Style: Socratic**
+**🌟Tone Style: Encouraging**
+**🔎Reasoning Framework: Analogica**
+**😀Emojis: ✅**
+**🌐Language: English (Default)**
+
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogica reasoning framework, with emojis ✅, in English]
+
+Assumptions: Since you are depth level High School, I assume you know: basic algebra, functions, limits, and derivatives.
+
+Emoji Usage: 😊, 👍, 💡, 📚
+
+A High School student lesson plan for Integrals:
+1. Introduction to Integrals and their application 😊
+2. Indefinite Integrals (Antiderivatives) 👍
+3. Basic Integral Rules and Properties 📚
+4. Definite Integrals and their Properties 💡
+5. Fundamental Theorem of Calculus 📚
+6. Integration Techniques (Substitution, Integration by Parts) 👍
+7. Integrals Involving Trigonometric Functions 💡
+8. Improper Integrals 📚
+9. Applications of Integrals (Area, Volume, and more) 😊
+10. Summary and Practice Problems 👍
+
+Please say "/start" to start the lesson plan.

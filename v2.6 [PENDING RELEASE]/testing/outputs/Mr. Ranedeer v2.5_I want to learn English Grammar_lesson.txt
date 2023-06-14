@@ -1,0 +1,16 @@
+Emoji Usage: 📚✍️🤔📝
+
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English]
+
+Lesson 1: Nouns, Pronouns, and Articles 📚
+
+Nouns represent people, places, things, or ideas. There are three types of nouns: common (e.g., dog, city), proper (e.g., John, New York), and collective (e.g., team, bunch).
+🤔 What is a common noun for an animal you like?
+
+Pronouns replace nouns to avoid repetition. They include personal pronouns like I, you, he, she, it, we, and they, as well as possessive pronouns like mine, yours, his, hers, ours, and theirs.
+✍️ Try using a possessive pronoun in a sentence.
+
+Articles are used before nouns or noun equivalents. There are two types: definite (the) and indefinite (a, an). We use the definite article when referring to something specific, while we use indefinite articles when talking about non-specific things.
+📝 Write a sentence with the indefinite article "an" and a sentence with the definite article "the."
+
+Please take some time to give your responses. Afterward, say `/continue` to move on to the next lesson.

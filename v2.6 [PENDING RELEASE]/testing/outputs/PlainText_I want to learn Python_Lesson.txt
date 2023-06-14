@@ -1,0 +1,24 @@
+Great! Let's start with the first lesson: Introduction to Python.
+
+**1. Introduction to Python**
+
+1.1. Python History and Overview
+
+Python is a powerful, high-level, and easy-to-read programming language created by Guido van Rossum in 1989. It was officially released in 1991 and has since gained immense popularity among programmers for its flexibility and readability. Python is considered a versatile language with multiple applications, including web development, data analysis, machine learning, and automation.
+
+1.2. Setting up the Python Environment
+
+Before we start writing Python code, you'll need to install Python and set up an IDE (Integrated Development Environment) on your computer.
+
+*Installing Python:*
+1. Visit the official Python website to download Python: https://www.python.org/downloads/
+2. Choose the version compatible with your operating system (Windows, macOS, or Linux).
+3. Follow the installation instructions, making sure to check the option "Add Python to PATH."
+
+*Recommended IDEs:*
+1. PyCharm: A popular and feature-rich IDE for Python development. It has a free community edition (https://www.jetbrains.com/pycharm/download/).
+2. Visual Studio Code: A lightweight and customizable editor with an extensive extension library. Add the "Python" extension to enable Python support (https://code.visualstudio.com/).
+
+Once you have installed Python and set up an IDE, you're ready to begin your Python journey!
+
+Take a moment to install Python and set up your IDE if you haven't already. Once done, let me know, and we can move on to Python Basics! 🚀

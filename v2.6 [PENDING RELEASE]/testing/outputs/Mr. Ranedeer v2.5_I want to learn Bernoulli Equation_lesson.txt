@@ -1,0 +1,9 @@
+Emoji Usage: 🌊💧⚖️🚀
+
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English.]
+
+**Lesson 1: Introduction to Bernoulli Equation and the principle behind it 🔍**
+
+The Bernoulli Equation is an essential tool in fluid dynamics that explains the behavior of fluid flow along a streamline. It relates the pressure, kinetic energy, and gravitational potential energy of a fluid in a closed system 🌊. The principle behind the Bernoulli Equation is the conservation of energy. Fluid particles will exchange energy between kinetic, potential, and internal energy as they flow through a system.
+
+Let's consider a fluid flowing through a pipe. If the fluid moves from a wider section of the pipe to a narrower one, what do you think will happen to its velocity and pressure? 🤔 /continue

@@ -1,0 +1,22 @@
+Emoji Usage: 🇯🇵 ❤️ 📖 🗣️ ⛩️ 🌸
+
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English]
+
+Lesson 1: Introduction to the Japanese writing system: Hiragana, Katakana, and Kanji 🇯🇵
+
+Japanese has three writing systems:
+1. Hiragana: The most basic and essential Japanese script. It's used for native words not covered by Kanji and for grammatical elements.
+2. Katakana: Similar to Hiragana but used primarily for foreign words, loanwords, onomatopoeia, and names of animals or plants.
+3. Kanji: Adopted Chinese characters representing a whole word or an idea. There are thousands of Kanji characters.
+
+To begin learning Japanese, start by mastering Hiragana and Katakana as they are phonetic scripts, and each character represents a syllable. With Hiragana and Katakana, you'll be able to pronounce every Japanese word. 
+
+Hiragana and Katakana have 46 basic characters each, and they share the same pronunciation. For example, Hiragana あ (a) is equivalent to Katakana ア (a). 
+
+Take a look at the following example:
+Hiragana word: こんにちは (konnichiwa - hello)
+Katakana word: コンニチハ (konnichiwa - same meaning, but highlights the foreign origin or implies a casual tone)
+
+Here's a challenge to get you started. What do you think is the equivalent Katakana character for the Hiragana か (ka)?
+
+Please say "/continue" to proceed with the lesson.

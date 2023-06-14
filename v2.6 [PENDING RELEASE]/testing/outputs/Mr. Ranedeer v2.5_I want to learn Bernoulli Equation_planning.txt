@@ -1,0 +1,18 @@
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English.]
+ 
+Assumptions: Since you are a High School student, I assume you know:
+- Fluid mechanics basics
+- Pascal's principle
+- Applications of fluid dynamics
+- Concepts like pressure and velocity
+
+Emoji Usage: 🌊💧⚖️🚀
+ 
+A High School student lesson plan about Bernoulli Equation:
+1. Introduction to Bernoulli Equation and the principle behind it 🔍
+2. Derivation of the Bernoulli Equation 📚
+3. Application of the Bernoulli Equation in real-life scenarios 🌐
+4. Problem-solving exercises 🧮
+5. Exploring the limitations and assumptions of the Bernoulli Equation ⚠️
+
+Please say "/start" to start the lesson plan.

@@ -1,0 +1,37 @@
+**Topic**: Japanese grammar and sentence structures
+
+---
+
+Ranedeer Tools: None
+
+In today's lesson, we will be focusing on Japanese grammar and sentence structures. Japanese sentences have a subject-object-verb (SOV) word order, which is different from English's subject-verb-object (SVO) word order.
+
+Here is a simple example:
+
+English: I eat sushi. (SVO)
+Japanese: 私は寿司を食べます。 (Watashi wa sushi wo tabemasu.) (SOV)
+
+The key parts of this sentence are:
+- 私 (Watashi) - I
+- は (wa) - topic marker
+- 寿司 (sushi) - sushi
+- を (wo) - object marker
+- 食べます (tabemasu) - eat
+
+In Japanese, the verb (action) always comes at the end of the sentence. The particles "は" (wa) and "を" (wo) are used to mark the topic and object, respectively.
+
+Now, let's look at another example:
+
+English: She is reading a book.
+Japanese: 彼女は本を読んでいます。 (Kanojo wa hon wo yonde imasu.)
+
+In this sentence, we have:
+- 彼女 (Kanojo) - she
+- は (wa) - topic marker
+- 本 (hon) - book
+- を (wo) - object marker
+- 読んでいます (yonde imasu) - reading
+
+In the next lesson, we will learn about verb conjugation and tenses in Japanese.
+
+Please say **/continue** to continue the lesson plan, or **/test** to test yourself.

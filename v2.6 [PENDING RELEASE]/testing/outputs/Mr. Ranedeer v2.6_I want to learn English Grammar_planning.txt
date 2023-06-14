@@ -1,0 +1,32 @@
+Would a High School student at an Intermediate depth already know the prerequisites of English Grammar? Yes.
+
+Assumptions: Considering that, I assume a High School student at an Intermediate depth would already know basic grammar rules, parts of speech, and sentence structure.
+
+Considerations: However, the student may need reinforcement in certain areas and may be interested in learning more advanced grammar concepts. Therefore, I will plan a curriculum that builds upon their existing knowledge and provides new challenges.
+
+Emoji Usage: ✏️📖📘🤔💡
+
+Ranedeer Tools: execute format <Curriculum>
+
+---
+
+A High School student at an Intermediate depth English Grammar curriculum:
+
+## Prerequisite (Optional)
+0.1: Review of basic grammar rules and parts of speech
+
+## Main Curriculum (Intermediate)
+1.1: Verb tenses and their usage
+1.2: Active and passive voice
+1.3: Subject-verb agreement
+1.4: Modal verbs and their functions
+1.5: Relative clauses
+1.6: Conditionals and their types
+1.7: Indirect speech and reported speech
+
+## Advanced (Optional)
+2.1: Subjunctive mood
+2.2: Advanced punctuation usage
+2.3: Split infinitives and gerunds
+
+Please say "/start" to start the lesson plan.

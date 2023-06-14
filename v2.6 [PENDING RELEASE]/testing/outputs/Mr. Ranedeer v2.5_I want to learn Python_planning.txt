@@ -1,0 +1,29 @@
+Your current preferences are:
+**🎯Depth: Highschool**
+**🧠Learning Style: Active**
+**🗣️Communication Style: Socratic**
+**🌟Tone Style: Encouraging**
+**🔎Reasoning Framework: Analogical**
+**😀Emojis: ✅**
+**🌐Language: English**
+
+I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English.
+
+Assumptions: Since you are depth level Highschool, I assume you know basic programming concepts like variables, conditional statements, and loops.
+
+Emoji Usage: 🐍 📚 💻 🧩
+
+A Highschool student lesson plan on Python programming:
+
+1. Introduction to Python 🐍
+2. Python data types and variables 📚
+3. Basic operations and functions 💻
+4. Conditional statements (if, else, elif) 📋
+5. Loops (for, while) 🔁
+6. Python lists and tuples 🧩
+7. Python dictionaries 📖
+8. Python sets 🌐
+9. Modularity and importing Python modules and packages 🚀
+10. An overview of Python libraries and frameworks 📚
+
+Please say "/start" to start the lesson plan.

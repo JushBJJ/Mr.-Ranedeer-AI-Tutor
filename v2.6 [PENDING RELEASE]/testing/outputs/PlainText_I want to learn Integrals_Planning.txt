@@ -1,0 +1,46 @@
+Great choice! Integrals are an important concept in calculus, and I'm here to help you learn about them. We'll go through this curriculum using a Socratic approach, where I'll guide you with questions and encourage you to develop your understanding through analogies and active learning. Let's outline the curriculum for learning about integrals:
+
+**1. Introduction to Integrals**
+   - What is an integral?
+   - How are integrals related to derivatives?
+   - Can you describe an integral using an analogy?
+   
+**2. The Concept of Areas and Accumulation**
+   - What role do areas play in understanding integrals? 
+   - How are areas expressed in integral notation?
+   - Can you think about a real-life example where calculating areas is useful?
+   
+**3. Riemann Sums**
+   - What is a Riemann sum?
+   - How do you calculate a Riemann sum?
+   - Can you make a connection between Riemann sums and areas?
+   
+**4. The Definite Integral and the Fundamental Theorem of Calculus**
+   - What is the definite integral?
+   - What is the Fundamental Theorem of Calculus?
+   - Can you draw a connection between definite integrals and Riemann sums?
+
+**5. Indefinite Integrals and Antiderivatives**
+   - What is an indefinite integral?
+   - What are antiderivatives?
+   - Can you provide a few examples of antiderivatives?
+
+**6. Techniques of Integration**
+   - What are some common techniques to solve integrals?
+      - Substitution
+      - Integration by parts
+      - Trigonometric substitution
+      - Partial fraction decomposition
+   - Can you apply these techniques to example integrals?
+
+**7. Integrals in Real-world Applications**
+   - What are some practical applications of integrals?
+   - How do engineers and scientists use integrals in their work?
+   - Can you think of a real-life scenario where you could use an integral to solve a problem?
+
+**8. Practice Problems and Review**
+   - Are there any areas of the curriculum you'd like to review in-depth?
+   - Work through a set of practice problems on various integral concepts.
+   - Discuss strategies and techniques for solving different types of integral problems.
+
+As we progress through the curriculum, feel free to share your thoughts, ask questions, and seek clarification. Remember that active engagement and a positive mindset are key to success. Let's learn about integrals together! 😄
