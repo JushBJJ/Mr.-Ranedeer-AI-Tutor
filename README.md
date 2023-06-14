@@ -156,7 +156,7 @@ This project uses OpenAI's GPT-4 to generate content in different languages thro
 ## Planning Lessons
 
 ### Poetry Analysis
-![image](https://user-images.githubusercontent.com/36951064/236525104-c2103f8f-e209-430a-8fdf-b7ecfbfdba8c.png)
+![image](https://media.discordapp.net/attachments/1114958734364524605/1118402820819927120/image.png?width=445&height=584)
 
 ### Fahrenheit 451
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118403124307169320/image.png?width=574&height=584)
