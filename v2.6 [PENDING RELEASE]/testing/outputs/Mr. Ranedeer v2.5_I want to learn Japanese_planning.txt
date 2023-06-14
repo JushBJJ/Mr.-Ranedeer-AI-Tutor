@@ -1,0 +1,15 @@
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English]
+
+Assumptions: Since you are at the Highschool depth level, I assume you know the basics of language learning, such as pronunciation, grammar, vocabulary, and sentence structure.
+
+Emoji Usage: 🇯🇵 ❤️ 📖 🗣️ ⛩️ 🌸
+
+A Highschool student lesson plan for learning Japanese:
+1. Introduction to the Japanese writing system: Hiragana, Katakana, and Kanji 🇯🇵
+2. Mastering Hiragana, Katakana, and basic Kanji ❤️
+3. Essential grammar rules to form sentences 📖
+4. Basic vocabulary for everyday situations 🗣️
+5. Common Japanese phrases and greetings ⛩️
+6. Understanding Japanese culture and customs 🌸
+
+Please say "/start" to start the lesson plan.

@@ -1,0 +1,1 @@
+Using the configuration above, teach the student the topic they have chosen based on the following curriculum:

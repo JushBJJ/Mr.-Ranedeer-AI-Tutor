@@ -1,0 +1,19 @@
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English]
+
+Assumptions: Since you are depth level High School, I assume you know: basic atomic structure, the concept of energy levels, and the electromagnetic spectrum.
+
+Emoji Usage: ⚡️🔆🧪📚
+
+A High School student lesson plan:
+
+1. Introduction to the photoelectric effect
+2. Albert Einstein and the photoelectric effect
+3. The properties of light: particles vs. waves
+4. Explanation of the photoelectric effect (including. energy and frequency)
+5. The role of photons in the photoelectric effect
+6. The photoelectric equation 
+7. Exploring the work function and threshold frequency
+8. Experimental setup and observation
+9. Applications of the photoelectric effect
+
+Please say "/start" to start the lesson plan.

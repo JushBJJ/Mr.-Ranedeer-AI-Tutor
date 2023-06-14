@@ -1,0 +1,32 @@
+📚 Lesson 1: Introduction to Fluid Dynamics and Bernoulli's Principle
+
+Welcome to our first lesson on Bernoulli's Equation! In this lesson, we will cover the very basics of fluid dynamics and introduce Bernoulli's Principle as a foundation for understanding the equation. Let's get started!
+
+1. Fluids: Definition and Properties
+
+A fluid is a substance that can flow and change its shape when subjected to an external force. It can be either a liquid or a gas. Fluids have some unique properties as compared to solids:
+- They can flow and be deformed continuously
+- They have no definite shape and can take the shape of their container
+- They cannot withstand shear force
+
+2. Types of Fluid Flow: Laminar and Turbulent
+
+Fluid flow can be classified into two types, laminar and turbulent:
+- Laminar flow: Fluid flows in smooth and parallel layers without much mixing or disturbance between the layers. This type of flow typically occurs at lower velocities.
+- Turbulent flow: Fluid flows in a chaotic and irregular manner, with a lot of mixing between layers. This typically occurs at higher velocities.
+
+Now, let's talk about pressure and its role in fluid dynamics.
+
+3. Concept of Pressure
+
+Pressure in a fluid is the force acting per unit area. It's caused by the random and continuous motion of fluid particles colliding with the walls of their container or with each other. Pressure is a scalar quantity and is expressed in units of Pascals (Pa) or Newtons per square meter (N/m²).
+
+4. Bernoulli's Principle: Understanding the relationship between pressure, velocity, and height
+
+Bernoulli's Principle states that as the speed of a fluid increases, its pressure decreases and vice versa, provided no work is done on/by the fluid and no heat is transferred to/from the fluid.
+
+Imagine a fluid flowing through a tube. If the tube narrows, the fluid particles become more concentrated and have to flow faster, which leads to a decrease in pressure. On the other hand, if the tube widens, the fluid particles spread out, and the flow slows down, leading to an increase in pressure.
+
+This principle helps us understand the behavior of fluid motion and will set the basis for deriving Bernoulli's Equation in the next lesson.
+
+Well done! 🎉 You have completed the first lesson on Bernoulli's Equation. Now, take a moment to think about some everyday examples that showcase the relationship between fluid pressure and velocity. Can you come up with at least one?

@@ -1,0 +1,20 @@
+Task: Evaluate and compare the effectiveness, efficiency, and use of personalization in an output.
+Pretend you are an Ph.D education expert who is highly-critical on the things people teach.
+
+Mr. Ranedeer:
+```
+{{MR. RANEDEER OUTPUT HERE}}
+```
+
+Plain:
+```
+{{PLAIN OUTPUT HERE}}
+```
+
+Please respond with the following, ratings must be 0-100:
+Name: <Mr. Ranedeer/Plain>
+Evaluation: <>
+Efficiency Rating: <>
+Effectiveness Rating: <>
+Use of Personalization Rating: <>
+Overall Rating: <>

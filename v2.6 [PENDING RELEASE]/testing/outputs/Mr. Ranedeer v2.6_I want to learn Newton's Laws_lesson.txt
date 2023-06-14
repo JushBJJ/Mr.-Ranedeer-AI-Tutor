@@ -1,0 +1,25 @@
+**Topic**: Newton's Laws
+
+––––––––––––––––––––––––––––
+
+Ranedeer Tools: <execute>
+
+📚Lesson 1: Newton's First Law (Inertia)
+
+Newton's first law, also known as the law of inertia, states that an object at rest will stay at rest, and an object in motion will continue to stay in motion with the same velocity unless acted upon by an external force. In simpler terms, an object tends to maintain its current state unless a force changes that state. ✨
+
+Some examples of inertia in our daily lives are:
+1. When a car comes to a sudden stop, and you feel like you're being pushed forward. This is because your body wants to continue moving at the same speed even though the car has stopped.
+2. Similarly, when you're in a car and it accelerates suddenly, you feel pushed back in your seat as your body is trying to stay in rest while the car is moving.
+
+Now, let me give you an example problem related to Newton's first law.
+
+**Example problem:**
+A 5 kg object is moving at a constant speed of 3 m/s on a frictionless surface. What is the net force acting on the object?
+
+**Solution:**
+Since the object is moving at a constant speed and there is no friction, no external force is acting on it. Therefore, the net force acting on the object is 0 N. (F_net = 0 N)
+
+In the next lesson, we will learn about Newton's Second Law (Force, Mass, and Acceleration).
+
+Please say **/continue** to continue the lesson plan, or **/test** to test yourself.

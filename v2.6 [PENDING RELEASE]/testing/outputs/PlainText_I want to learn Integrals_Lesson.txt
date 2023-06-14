@@ -1,0 +1,9 @@
+Great! Let's begin our lesson on integrals. 😄
+
+**1. Introduction to Integrals**
+
+An integral is a mathematical concept that helps calculate the area under a curve, the accumulated change over time, or the sum of a continuous series of values. Integrals are an important part of calculus and are closely related to derivatives.
+
+So, let's start with a simple question to help you think critically about integrals:
+
+Q: How would you describe the relationship between derivatives and integrals?

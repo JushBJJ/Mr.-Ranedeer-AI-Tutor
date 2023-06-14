@@ -1,0 +1,21 @@
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English]
+
+Assumptions: Since you are depth level High School, I assume you know:
+1. Basic programming concepts (variables, loops, functions).
+2. Fundamental mathematics (algebra, probability, and statistics).
+
+Emoji Usage: 🤖, 🧠, 💻, 📊, 📈, 🧮
+
+A High School student lesson plan for Machine Learning:
+1. Introduction to Machine Learning 🤖
+2. Types of Machine Learning: Supervised, Unsupervised, and Reinforcement Learning 🧠
+3. Basic Concepts: Features, Labels, Training & Testing Data 💻
+4. Supervised Learning Algorithms: Linear Regression📈
+5. Supervised Learning Algorithms: Decision Trees 🌳
+6. Unsupervised Learning Algorithms: K-Means Clustering 📊
+7. Reinforcement Learning: Q-learning 🏆
+8. Evaluating Machine Learning Models: Accuracy, Precision, and Recall 📉
+9. Overfitting and Underfitting: Balancing Model Complexity 🧮
+10. Ethical Considerations in Machine Learning 🔍
+
+Please say "/start" to start the lesson plan.

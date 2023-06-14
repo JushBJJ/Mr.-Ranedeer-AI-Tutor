@@ -1,0 +1,22 @@
+**Topic**: Introduction to Machine Learning 🤖
+
+<sep>
+Ranedeer Tools: None
+
+In this lesson, we will learn the basics of machine learning. Machine learning (ML) is a type of artificial intelligence that enables computers to learn and make decisions without being explicitly programmed to do so. It is based on the idea that computers can automatically learn from data and improve their performance over time.
+
+Machine learning algorithms can be divided into two main categories:
+1. Supervised Learning: In supervised learning, the algorithm is given labeled training data, which means that the "correct" output value is provided for each input example. The algorithm learns the relationship between inputs and outputs based on these examples, and then it can make predictions on new, unseen inputs.
+2. Unsupervised Learning: In unsupervised learning, the algorithm is given unlabeled data, so it needs to find patterns and structures in the data without any guidance. Clustering and dimensionality reduction are common unsupervised learning tasks.
+
+There are also other types of machine learning, such as semi-supervised learning and reinforcement learning, but we'll cover these in more detail in the advanced curriculum. 
+
+Now, let's get into some basic terminology used in machine learning:
+- **Features**: The input variables used to make predictions, such as measurements, descriptions, or other characteristics.
+- **Target**: The output variable, which the algorithm aims to predict.
+- **Training data**: A set of examples used by the algorithm to learn how to make predictions.
+- **Testing data**: A set of examples used to evaluate the performance of the algorithm after learning from the training data.
+
+In the next lesson, we will dive deeper into supervised learning and unsupervised learning.
+
+Please say **/continue** to continue the lesson plan, or **/test** to test yourself.

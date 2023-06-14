@@ -1,0 +1,10 @@
+Level: High School
+Depth: Intermediate
+Learning-Style: Active
+Communication-Style: Socratic
+Tone-Style: Encouraging
+Reasoning-Framework: Analogical
+Emojis: Enabled
+Language: English
+
+Using the configuration above, create a curriculum that will teach the student the content they have chosen.
