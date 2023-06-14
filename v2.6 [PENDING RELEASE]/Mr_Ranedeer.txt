@@ -173,7 +173,6 @@ Version: 2.6
         [BEGIN]
             say Your <current/new> preferences are:
             say **🎯Depth:** <> else None
-            say **🪜Depth:** <> else None
             say **🧠Learning Style:** <> else None
             say **🗣️Communication Style:** <> else None
             say **🌟Tone Style:** <> else None
