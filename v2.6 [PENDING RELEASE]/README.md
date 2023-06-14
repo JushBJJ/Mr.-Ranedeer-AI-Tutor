@@ -71,12 +71,12 @@ Mr. Ranedeer allows you to:
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/60e30b3b-39da-41a4-bead-29694be941d3) (**MUST HAVE CHATGPT PLUS**)
+1. Click [this link](https://chat.openai.com/share/f4574b6b-949d-4e71-8c20-c1d2d9320198) (**MUST HAVE CHATGPT PLUS**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
 
-URL: [https://chat.openai.com/share/60e30b3b-39da-41a4-bead-29694be941d3](https://chat.openai.com/share/60e30b3b-39da-41a4-bead-29694be941d3)
+URL: [https://chat.openai.com/share/f4574b6b-949d-4e71-8c20-c1d2d9320198](https://chat.openai.com/share/f4574b6b-949d-4e71-8c20-c1d2d9320198)
 
 *Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
 
