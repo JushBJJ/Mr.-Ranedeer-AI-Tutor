@@ -87,7 +87,7 @@ If you feel like the recent versions are degraded, you can use the previous vers
 
 |Version|Tokens (JSON)|
 |-|-|
-|[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|3,583|
+|[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|3,568|
 |[v2.5](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/65ba999f91afbac63b5777dfcbc8646bade38439)|3,721|
 |[v2.4.16](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/81e36e599dfc1b66a3f6c035368889fa5a959e77)|3,896|
 |[v2.4.11](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/dce8ae6979153ca386758719d1f60aa64a74ed05)|4,336|
