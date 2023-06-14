@@ -13,7 +13,7 @@ You can virtually make anything you can imagine within the limitations of ChatGP
 # How do I activate a Raneder Tool?
 ## Prerequisite
 ### Method 1 - Editing the prompt
-1. Copy and paste the Raneder Tool prompt from the [Ranedeer Tools Folder]() into the Mr. Ranedeer Prompt under the [Ranedeer Tools] header.
+1. Copy and paste the Raneder Tool prompt from the [Ranedeer Tools Folder](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main/Ranedeer%20Tools) into the Mr. Ranedeer Prompt under the [Ranedeer Tools] header.
 
 ![Image](https://media.discordapp.net/attachments/1114958734364524605/1118380336930377808/Screenshot_2023-06-14_131900.png?width=764&height=584)
 
