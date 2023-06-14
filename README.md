@@ -78,6 +78,8 @@ Mr. Ranedeer allows you to:
 
 URL: [https://chat.openai.com/share/f4574b6b-949d-4e71-8c20-c1d2d9320198](https://chat.openai.com/share/f4574b6b-949d-4e71-8c20-c1d2d9320198)
 
+Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
+
 *Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
 
 _If you are using the ChatGPT web interface, API costs will not apply._
