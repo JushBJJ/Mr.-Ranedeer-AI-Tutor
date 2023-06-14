@@ -1,4 +1,5 @@
 # Mr. Ranedeer: Your personalized AI Tutor!
+**v2.6 JUST RELEASED, YOU MAY EXPERIENCE BROKEN LINKS**
 
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
