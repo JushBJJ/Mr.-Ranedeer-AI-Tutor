@@ -29,13 +29,7 @@
 
     ![Image](https://media.discordapp.net/attachments/1114958734364524605/1118351780556845116/image.png)
 
-    **Here is an example:**
-
-    ![Gif](https://cdn.discordapp.com/attachments/1114958734364524605/1118353421506969670/2023-06-14-11-34-42.gif)
-
-2. Copy and paste the Mr. Ranedeer prompt you changed into ChatGPT
-
-    ![Video](https://cdn.discordapp.com/attachments/1114958734364524605/1118360490985406535/2023-06-14-12-01-35.mp4)
+2. Copy and paste the Mr. Ranedeer prompt you changed into ChatGPT then press `Save & Continue`
 
 ### **Method 3** - `/config` command
 
