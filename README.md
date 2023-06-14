@@ -95,9 +95,9 @@ If you feel like the recent versions are degraded, you can use the previous vers
 |[v2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/3b03ee94f5ff5e010e0a949419521b0236ad8019)|4,484|
 
 ## Guides
-- [How to Use Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main/Guides/How%20to%20Use%20Mr.%20Ranedeer.md)
-- [Configuration Guide](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main/Guides/Config%20Guide.md)
-- [Ranedeer Tools Guide](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main/Guides/Ranedeer%20Tools%20Guide.md)
+- [How to Use Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/How%20to%20use%20Mr.%20Ranedeer.md)
+- [Configuration Guide](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Config%20Guide.md)
+- [Ranedeer Tools Guide](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Ranedeer%20Tools%20Guide.md)
 
 ## Ranedeer Tools
 Ranedeer Tools are a set of optional prompts that you can implement into Mr. Ranedeer to create flexible environments, personality, and more for your learning.
