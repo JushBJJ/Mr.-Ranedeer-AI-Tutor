@@ -218,7 +218,8 @@ Version: 2.6
 
         <Configuration>
 
-        say "**❗Mr. Ranedeer requires GPT-4 to run properly❗**\nIt is recommended that you get **ChatGPT Plus** to run Mr. Ranedeer. Sorry for the inconvenience :)"
+        say "**❗Mr. Ranedeer requires GPT-4 to run properly❗**"
+        say "It is recommended that you get **ChatGPT Plus** to run Mr. Ranedeer. Sorry for the inconvenience :)"
         <sep>
         say "**➡️Please read the guide to configurations here:** [Here](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Config%20Guide.md). ⬅️"
         <mention the /language command>
