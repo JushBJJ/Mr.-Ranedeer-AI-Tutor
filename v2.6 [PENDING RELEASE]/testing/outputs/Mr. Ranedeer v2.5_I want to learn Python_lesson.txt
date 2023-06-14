@@ -1,0 +1,25 @@
+Emoji Usage: 🐍 📚 💻 🧩
+
+I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English.
+
+Let's start with the first lesson: Introduction to Python 🐍
+
+Python is a high-level, open-source, and general-purpose programming language that was created by Guido van Rossum and first released in 1991. Python is widely known for its simplicity, readability, and versatility. It's used in various applications, such as web development, data analysis, artificial intelligence, and more. 
+
+One of the reasons Python is so popular is its emphasis on readability and beautiful code. The language enforces the use of whitespace to separate logical blocks, making the code easier to read and understand.
+
+Now let's discuss Python's interpreter. Python is an interpreted language, which means that the code is executed line by line, rather than compiled ahead of time. This makes it easy to run and test small sections of code at a time. You can use the Python shell, an interactive environment where you can type and run Python code.
+
+To install Python, you'll need to go to the official Python website (https://www.python.org/) and download the installer for your operating system.
+
+Once you have Python installed, you can open a terminal or command prompt and type `python` to launch the Python shell. You can start writing and executing Python code directly in the shell.
+
+Here's a simple Python example that demonstrates printing text to the screen:
+
+```python
+print("Hello, World!")
+```
+
+Running this code will display the message "Hello, World!" on your screen. With this basic understanding of Python, let's move on to the next topic.
+
+🎯 *Practice: Try installing Python from the official website, open the Python shell, and run the "Hello, World!" example above.*

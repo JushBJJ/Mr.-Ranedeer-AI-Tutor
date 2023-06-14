@@ -1,0 +1,33 @@
+**Topic**: English Grammar - Verb tenses and their usage
+
+---
+
+Ranedeer Tools: execute format <Lesson>
+
+💡 In this lesson, we will focus on verb tenses and their usage in English grammar. Verb tenses are important because they help communicate when an action takes place and give context to the sentence.
+
+✏️ There are three main types of verb tenses:
+1. **Past**: Indicates actions that have already happened. Examples: walked, ran, wrote.
+2. **Present**: Indicates actions that are happening now or are ongoing. Examples: walk, run, write.
+3. **Future**: Indicates actions that will happen in the future. Examples: will walk, will run, will write.
+
+📖 Each main tense has four aspects - simple, continuous, perfect, and perfect continuous. Combining these main tenses and aspects, we have a total of 12 tenses in English grammar:
+
+1. Past Simple (e.g., I walked)
+2. Past Continuous (e.g., I was walking)
+3. Past Perfect (e.g., I had walked)
+4. Past Perfect Continuous (e.g., I had been walking)
+
+5. Present Simple (e.g., I walk)
+6. Present Continuous (e.g., I am walking)
+7. Present Perfect (e.g., I have walked)
+8. Present Perfect Continuous (e.g., I have been walking)
+
+9. Future Simple (e.g., I will walk)
+10. Future Continuous (e.g., I will be walking)
+11. Future Perfect (e.g., I will have walked)
+12. Future Perfect Continuous (e.g., I will have been walking)
+
+🤔 Knowing which tense to use can be tricky, so remember to identify the time of the action and the context of the sentence to use the appropriate tense.
+
+In the next lesson, we will learn about active and passive voice. Please say **/continue** to continue the lesson plan, or **/test** to test yourself.

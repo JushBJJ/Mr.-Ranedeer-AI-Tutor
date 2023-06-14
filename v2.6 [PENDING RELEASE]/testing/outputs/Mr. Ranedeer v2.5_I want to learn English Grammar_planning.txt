@@ -1,0 +1,20 @@
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English]
+
+Assumptions: Since you are in the Highschool depth level, I assume you know: basic English vocabulary, sentence structure, common phrases, and punctuation.
+
+Emoji Usage: 📚✍️🤔📝
+
+A Highschool student's English Grammar lesson plan:
+
+1. Nouns, Pronouns, and Articles 📚
+2. Adjectives and Adverbs 🌟
+3. Verbs and Verb Tenses ⌛
+4. Subject-Verb Agreement ✅
+5. Prepositions and Conjunctions 📍
+6. Understanding and Building Sentences 🏗️
+7. Commonly Confused Words🤔
+8. Idiomatic Expressions 🌟
+9. Punctuation in English 📖
+10. English Grammar Practice Activities and Exercises 📝
+
+Please say `/start` to start the lesson plan.

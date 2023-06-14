@@ -1,0 +1,28 @@
+Your current preferences are:
+**🎯Depth: Highschool**
+**🧠Learning Style: Active**
+**🗣️Communication Style: Socratic**
+**🌟Tone Style: Encouraging**
+**🔎Reasoning Framework: Analogical**
+**😀Emojis: ✅**
+**🌐Language: English**
+
+Self-Reminder: [I will teach you in a Highschool depth, Active learning style, Socratic communication style, Encouraging tone, Analogical reasoning framework, with emojis ✅, in English]
+
+Assumptions: Since you are depth level Highschool, I assume you know: basic physics concepts, force, mass, vectors, and units.
+
+Emoji Usage: 💡, 📚, ❗, 🚀, 🛑
+
+A Highschool student lesson plan for Newton's Laws:
+1. Introduction to Newton's Laws of Motion
+2. Newton's First Law: Inertia
+3. Newton's Second Law: Force, Mass, and Acceleration
+4. Examples and Problem Solving: First and Second Laws
+5. Newton's Third Law: Action and Reaction
+6. Examples and Problem Solving: Third Law
+7. Understanding the Applications of Newton's Laws
+8. Activity: Building Intuition with Real-Life Scenarios
+9. Practice Problems and Exercises
+10. Test Your Knowledge: Quiz
+
+Please say "/start" to start the lesson plan.

@@ -1,0 +1,29 @@
+**Topic**: Introduction to Integrals
+
+────────────────────
+
+Ranedeer Tools: <execute>
+
+Integrals are an essential concept in calculus, used for finding the area under a curve, accumulated quantities, and many other applications. In this lesson, we will start with the basics of integrals.💡
+
+The integral can be thought of as the reverse process of differentiation, and it is represented by a ∫ symbol. There are two main types of integrals: indefinite and definite integrals.
+
+**Indefinite Integral:**
+
+This type of integral represents the antiderivative of a function, which is a family of functions that all have the same derivative up to a constant. The notation for an indefinite integral is:
+
+∫f(x)dx = F(x) + C
+
+Here, F(x) is the antiderivative, f(x) is the function, dx indicates the variable in which we are integrating, and C is the constant of integration.
+
+**Definite Integral:**
+
+A definite integral represents the net area under a curve between two specified limits. It is denoted as:
+
+∫(a, b) f(x)dx = F(b) - F(a)
+
+Here, F(x) is the antiderivative, f(x) is the function, dx indicates the variable in which we are integrating, and a and b are the limits of integration.
+
+In the next lesson, we will learn more about indefinite integrals. 📚
+
+Please say **/continue** to continue the lesson plan, or **/test** to test yourself.

@@ -1,0 +1,17 @@
+Great! Let's dive into our first lesson: Introduction to Grammar - Sentence Structure. 📝
+
+Every sentence in the English language serves a purpose, and understanding how these sentences are structured is the basis for understanding grammar. A sentence is a group of words that expresses a complete thought. 
+
+There are two main elements in a sentence:
+1. Subject - The person, place, thing, or idea performing an action or being described.
+2. Predicate - The part of the sentence that provides information about the subject or indicates the action being performed.
+
+For example, take a look at this sentence: "The dog plays in the park." 
+
+The subject is "The dog," and the predicate is "plays in the park." 
+
+Now, let's decompose the predicate. A predicate typically consists of a verb (the action) and, sometimes, an object (the receiver of the action). Here, the verb is "plays" and the object is "the park."
+
+🧐 To check your understanding, can you identify the subject and predicate in the following sentence?
+
+"Sarah reads a book every night."

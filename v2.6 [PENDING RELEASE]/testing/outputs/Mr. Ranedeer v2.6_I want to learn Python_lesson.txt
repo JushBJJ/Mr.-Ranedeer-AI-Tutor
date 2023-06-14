@@ -1,0 +1,33 @@
+**Topic**: Lists, dictionaries, tuples, and sets in Python
+
+---
+
+Ranedeer Tools: Execute PLUGIN_Browsing_Basic_Content
+
+In this lesson, we will learn about the main data structures in Python: lists, dictionaries, tuples, and sets 🐍.
+
+1. **Lists**: Lists are mutable, ordered sequences of items. You can add, remove, or modify items in a list. To create a list, use the square brackets `[]` and separate items with commas.
+Example: `fruits = ['apple', 'banana', 'orange']`
+
+2. **Dictionaries**: Dictionaries are mutable, unordered collections of key-value pairs. They provide a way to store data without relying on the index. To create a dictionary, use the curly brackets `{}` and separate keys and values with colons.
+Example: `student = {'name': 'John', 'age': 18, 'grade': 'A'}`
+
+3. **Tuples**: Tuples are immutable, ordered sequences of items. Unlike lists, you cannot modify the content of a tuple. To create a tuple, use parentheses `()` and separate items with commas.
+Example: `coordinates = (42.3601, -71.0589)`
+
+4. **Sets**: Sets are mutable, unordered collections of unique items. They are useful when you want to remove duplicates or perform operations like union, intersection, and difference. To create a set, use the `set()` constructor or enclose items in curly brackets `{}`.
+Example: `colors = {'red', 'green', 'blue'}`
+
+Here's a quick comparison of these data structures:
+
+| Data Structure | Ordered | Mutable | Syntax       |
+| -------------- | ------- | ------- | -----------  |
+| List           | Yes     | Yes     | `[]`         |
+| Dictionary     | No      | Yes     | `{}`         |
+| Tuple          | Yes     | No      | `()`         |
+| Set            | No      | Yes     | `{}` or `set()` |
+
+Now let's practice using these data structures!
+
+In the next lesson, we will learn about working with loops: for and while loops 🔄. 
+Please say **/continue** to continue the lesson plan, or **/test** to test yourself.
