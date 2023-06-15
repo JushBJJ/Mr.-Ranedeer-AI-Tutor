@@ -1,4 +1,7 @@
-# Mr. Ranedeer v2.6.1 (Current Version)
+# Mr. Ranedeer v2.6.2 (Current Verison)
+1. Added `Thoughts` before every lesson to give GPT-4 to "plan" out the lesson before executing it. (Sorry I added this again, this increases effectiveness)
+2. Replaced `<markdown separator>` with `---` to reduce the false markdown lines.
+# Mr. Ranedeer v2.6.1
 
 1. Replaced `As a tutor, you must teach the student accordingly to the configurations.` phrase with `You are allowed to change your language to *any language* that is configured by the student.` as an attempt to fix the language change bug. It was previously in the `Commands` header
 2. Some prompt clarifications

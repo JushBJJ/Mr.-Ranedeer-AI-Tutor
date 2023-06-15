@@ -32,7 +32,7 @@ Donations accepted:
 - [Different Languages](#different-languages)
   - [Chinese](#chinese)
   - [Disclaimer](#disclaimer)
-- [Screenshot Examples (No Ranedeer Tools)](#screenshot-examples-no-ranedeer-tools)
+- [Screenshot Examples (No Ranedeer Tools, v2.6 slightly outdated)](#screenshot-examples-no-ranedeer-tools-v26-slightly-outdated)
   - [Lessons](#lessons)
     - [How 1 + 1 = 2](#how-1--1--2)
     - [Poetry Analysis](#poetry-analysis)
@@ -71,12 +71,12 @@ Mr. Ranedeer allows you to:
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/b10b5644-f499-43ee-95ec-701fecd84045) (**MUST HAVE CHATGPT PLUS**)
+1. Click [this link](https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319) (**MUST HAVE CHATGPT PLUS**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
 
-URL: [https://chat.openai.com/share/b10b5644-f499-43ee-95ec-701fecd84045](https://chat.openai.com/share/b10b5644-f499-43ee-95ec-701fecd84045)
+URL: [https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319](https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
 
@@ -89,7 +89,8 @@ If you feel like the recent versions are degraded, you can use the previous vers
 
 |Version|Tokens (JSON)|
 |-|-|
-|[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main)|3,745|
+|[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|3,763|
+|[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/34638933cb3841cc8ac2fa0208fb15e66c8abd6a)|3,745|
 |[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/54a8e520023e588d2e739613e4f65df63a6518fd)|3,568|
 |[v2.5](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/65ba999f91afbac63b5777dfcbc8646bade38439)|3,721|
 |[v2.4.16](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/81e36e599dfc1b66a3f6c035368889fa5a959e77)|3,896|
@@ -140,7 +141,7 @@ By either editing the Mr Ranedeer file or using the `/language [lang]` command, 
 ## Disclaimer
 This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
 
-# Screenshot Examples (No Ranedeer Tools)
+# Screenshot Examples (No Ranedeer Tools, v2.6 slightly outdated)
 
 ## Lessons
 ### How 1 + 1 = 2
