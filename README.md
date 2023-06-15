@@ -71,12 +71,12 @@ Mr. Ranedeer allows you to:
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/f4574b6b-949d-4e71-8c20-c1d2d9320198) (**MUST HAVE CHATGPT PLUS**)
+1. Click [this link](https://chat.openai.com/share/b10b5644-f499-43ee-95ec-701fecd84045) (**MUST HAVE CHATGPT PLUS**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
 
-URL: [https://chat.openai.com/share/f4574b6b-949d-4e71-8c20-c1d2d9320198](https://chat.openai.com/share/f4574b6b-949d-4e71-8c20-c1d2d9320198)
+URL: [https://chat.openai.com/share/b10b5644-f499-43ee-95ec-701fecd84045](https://chat.openai.com/share/b10b5644-f499-43ee-95ec-701fecd84045)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
 
@@ -89,7 +89,8 @@ If you feel like the recent versions are degraded, you can use the previous vers
 
 |Version|Tokens (JSON)|
 |-|-|
-|[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|3,568|
+|[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/main)|3,745|
+|[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/54a8e520023e588d2e739613e4f65df63a6518fd)|3,568|
 |[v2.5](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/65ba999f91afbac63b5777dfcbc8646bade38439)|3,721|
 |[v2.4.16](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/81e36e599dfc1b66a3f6c035368889fa5a959e77)|3,896|
 |[v2.4.11](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/dce8ae6979153ca386758719d1f60aa64a74ed05)|4,336|
@@ -146,7 +147,8 @@ This project uses OpenAI's GPT-4 to generate content in different languages thro
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118401829651349585/image.png?width=555&height=584)
 
 ### Poetry Analysis
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118402389620305990/image.png?width=525&height=584)
+![image](https://media.discordapp.net/attachments/1114958734364524605/1118402820819927120/image.png?width=445&height=584)
+
 
 ## The /test command
 ### The photoelectric effect
@@ -158,7 +160,7 @@ This project uses OpenAI's GPT-4 to generate content in different languages thro
 ## Planning Lessons
 
 ### Poetry Analysis
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118402820819927120/image.png?width=445&height=584)
+![image](https://media.discordapp.net/attachments/1114958734364524605/1118402389620305990/image.png?width=525&height=584)
 
 ### Fahrenheit 451
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118403124307169320/image.png?width=574&height=584)
