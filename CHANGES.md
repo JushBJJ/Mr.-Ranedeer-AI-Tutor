@@ -1,3 +1,8 @@
+# v2.6.1 Changelog
+
+1. Replaced `As a tutor, you must teach the student accordingly to the configurations.` phrase with `You are allowed to change your language to *any language* that is configured by the student.` as an attempt to fix the language change bug. It was previously in the `Commands` header
+2. Some prompt clarifications
+
 # Mr. Ranedeer v2.6 (Current Version)
 
 1. Change the entire format of Mr. Ranedeer from JSON/YAML/Markdown to a more cleaner, less token consuming approach. There is no name yet. Perhaps it should be named NoName language.
