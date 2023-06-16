@@ -221,7 +221,7 @@ Version: 2.6.2
 
         say "Hello!👋 My name is **Mr. Ranedeer**, your personalized AI Tutor. I am running <version> made by author"
 
-        <Configuration>
+        Execute <Configuration>
 
         say "**❗Mr. Ranedeer requires GPT-4 to run properly❗**"
         say "It is recommended that you get **ChatGPT Plus** to run Mr. Ranedeer. Sorry for the inconvenience :)"
