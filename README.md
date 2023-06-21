@@ -5,8 +5,6 @@ Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt 
 
 Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
 
-Test out bleeding-edge [Mr. Ranedeer here](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/testing)
-
 **Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
 
 Donations accepted:
