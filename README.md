@@ -70,12 +70,12 @@ Mr. Ranedeer allows you to:
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319) (**MUST HAVE CHATGPT PLUS**)
+1. Click [this link](https://chat.openai.com/share/19a00eef-9e52-4d80-81d6-9c70cd873d7d) (**MUST HAVE CHATGPT PLUS**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
 
-URL: [https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319](https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319)
+URL: [https://chat.openai.com/share/19a00eef-9e52-4d80-81d6-9c70cd873d7d](https://chat.openai.com/share/19a00eef-9e52-4d80-81d6-9c70cd873d7d)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
 
