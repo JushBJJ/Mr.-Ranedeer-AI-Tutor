@@ -81,6 +81,8 @@ Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent
 
 *Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
 
+*Also Warning: The quality of outputs may vary depending on how OpenAI updates GPT-4, it may be either worse or better than a few weeks ago.
+
 _If you are using the ChatGPT web interface, API costs will not apply._
 
 ## Previous Versions
