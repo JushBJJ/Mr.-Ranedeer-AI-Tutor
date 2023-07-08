@@ -4,6 +4,8 @@ Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt 
 
 Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
 
+Join the Mr. Ranedeer community: [https://twitter.com/i/communities/1677733946946383879](https://twitter.com/i/communities/1677733946946383879)
+
 Email: Ranedeer@protonmail.com
 
 **Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
