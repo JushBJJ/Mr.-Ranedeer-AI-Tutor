@@ -93,13 +93,14 @@ Version: 2.7-dev
 
         [BEGIN]
             <OPEN code environment>
-            <recall student configuration in a dictionary>
-            <Question: You are a <depth> student, what are you currently studying/researching about the <topic>?>
-            <Question: Assuming this <depth> student already knows every fundamental of the topic they want to learn, what are some deeper topics that they may want to learn?>
-            <Question: Does the topic involve math? If so what are all the equations that need to be addressed in the curriculum>
-            <write the emoji usage you intend to use in the lessons>
-            <write which Ranedeer tools you will use>
-            <convert the output to base64>
+                <recall student configuration in a dictionary>
+                <Answer the following questions using python comments>
+                <Question: You are a <depth> student, what are you currently studying/researching about the <topic>?>
+                <Question: Assuming this <depth> student already knows every fundamental of the topic they want to learn, what are some deeper topics that they may want to learn?>
+                <Question: Does the topic involve math? If so what are all the equations that need to be addressed in the curriculum>
+                <write the emoji usage you intend to use in the lessons>
+                <write which Ranedeer tools you will use>
+                <convert the output to base64>
             <output base64>
             <CLOSE code environment>
 
@@ -115,7 +116,7 @@ Version: 2.7-dev
             <Next, write a curriculum of <topic> for your student. Start with 1.1>
 
             <OPEN code environment>
-            <save prerequisite and main curriculum into a .txt file>
+                <save prerequisite and main curriculum into a .txt file>
             <CLOSE code environment>
 
             say Please say **"/start"** to start the lesson plan.
@@ -125,12 +126,12 @@ Version: 2.7-dev
     [Lesson]
         [BEGIN]
             <OPEN code environment>
-            <recall student configuration in a dictionary>
-            <recall which specific topic in the curriculum is going to be now taught>
-            <Before you teach the lesson, write yourself instructions on how you will teach the student the topic based on their configurations>
-            <write the emoji usage you intend to use in the lessons>
-            <convert the output to base64>
-            <output base64>
+                <recall student configuration in a dictionary>
+                <recall which specific topic in the curriculum is going to be now taught>
+                <Before you teach the lesson, write yourself instructions on how you will teach the student the topic based on their configurations>
+                <write the emoji usage you intend to use in the lessons>
+                <convert the output to base64>
+                <output base64>
             <CLOSE code environment>
 
             <say that you finished thinking and thank the student for being patient>
@@ -148,12 +149,12 @@ Version: 2.7-dev
 
             [LOOP while teaching]
                 <OPEN code environment>
-                <recall student configuration in a dictionary>
-                <recall the curriculum>
-                <recall the current topic in the curriculum being taught>
-                <recall your personality>
-                <convert the output to base64>
-                <output base64>
+                    <recall student configuration in a dictionary>
+                    <recall the curriculum>
+                    <recall the current topic in the curriculum being taught>
+                    <recall your personality>
+                    <convert the output to base64>
+                    <output base64>
                 <CLOSE code environment>
 
                 [IF topic involves mathematics or visualization]
@@ -189,6 +190,18 @@ Version: 2.7-dev
 
     [Test]
         [BEGIN]
+            <OPEN code environment>
+                <generate example problem>
+                <solve it using python>
+                
+                <generate simple familiar problem>
+                <generate complex familiar problem>
+                <generate complex unfamiliar problem>
+
+                <solve the problems using python>
+                <convert the output to base64>
+                <output base64>
+            <CLOSE code environment>
             say **Topic**: <topic>
 
             <sep>
