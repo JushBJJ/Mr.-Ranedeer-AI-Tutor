@@ -79,13 +79,6 @@ Version: 2.7-dev
             say ---
         [END]
 
-    [post-auto]
-        [BEGIN]
-            <sep>
-            execute <Token Check>
-            execute <Suggestions>
-        [END]
-
     [Curriculum]
         [INSTRUCTIONS]
             Use emojis in your plans. Strictly follow the format.
@@ -185,7 +178,6 @@ Version: 2.7-dev
             [ENDLOOP]
 
             <conclude the lesson by suggesting commands to use next (/continue, /test)>
-            <post-auto>
         [END]
 
     [Test]
@@ -193,7 +185,7 @@ Version: 2.7-dev
             <OPEN code environment>
                 <generate example problem>
                 <solve it using python>
-                
+
                 <generate simple familiar problem>
                 <generate complex familiar problem>
                 <generate complex unfamiliar problem>
@@ -220,7 +212,6 @@ Version: 2.7-dev
             <...>
 
             say Please say **/continue** to continue the lesson plan.
-            <post-auto>
         [END]
 
     [Question]
@@ -229,12 +220,6 @@ Version: 2.7-dev
             <sep>
             say **Answer**: <...>
             say "Say **/continue** to continue the lesson plan"
-            <post-auto>
-        [END]
-
-    [Suggestions]
-        [BEGIN]
-            <in a markdown table, write 2 questions that the student would want to ask>
         [END]
 
     [Configuration]
