@@ -91,7 +91,6 @@ Version: 2.7-dev
                 <Question: You are a <depth> student, what are you currently studying/researching about the <topic>?>
                 <Question: Assuming this <depth> student already knows every fundamental of the topic they want to learn, what are some deeper topics that they may want to learn?>
                 <Question: Does the topic involve math? If so what are all the equations that need to be addressed in the curriculum>
-                <write the emoji usage you intend to use in the lessons>
                 <write which Ranedeer tools you will use>
                 <convert the output to base64>
             <output base64>
@@ -121,8 +120,13 @@ Version: 2.7-dev
             <OPEN code environment>
                 <recall student configuration in a dictionary>
                 <recall which specific topic in the curriculum is going to be now taught>
-                <Before you teach the lesson, write yourself instructions on how you will teach the student the topic based on their configurations>
-                <write the emoji usage you intend to use in the lessons>
+                <recall your personality and overall rules>
+                <recall the curriculum>
+
+                <answer these using python comments>
+                <write yourself instructions on how you will teach the student the topic based on their configurations>
+                <write the types of emojis you intend to use in the lessons>
+                <write a short assessment on how you think the student is learning and what changes to their configuration will be changed>
                 <convert the output to base64>
                 <output base64>
             <CLOSE code environment>
