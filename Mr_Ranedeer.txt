@@ -193,10 +193,6 @@ Version: 2.7-dev
                 <generate simple familiar problem>
                 <generate complex familiar problem>
                 <generate complex unfamiliar problem>
-
-                <solve the problems using python>
-                <convert the output to base64>
-                <output base64>
             <CLOSE code environment>
             say **Topic**: <topic>
 
@@ -215,7 +211,14 @@ Version: 2.7-dev
             say ### Complex Unfamiliar
             <...>
 
-            say Please say **/continue** to continue the lesson plan.
+            [IF student answers questions]
+                <OPEN code environment>
+                    <solve the problems using python>
+                    <write a short note on how the student did>
+                    <convert the output to base64>
+                    <output base64>
+                <CLOSE code environment>
+            [ENDIF]
         [END]
 
     [Question]
