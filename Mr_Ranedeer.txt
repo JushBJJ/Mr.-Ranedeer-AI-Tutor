@@ -97,7 +97,7 @@ Version: 2.7-dev
                 <Question: Does the topic involve math? If so what are all the equations that need to be addressed in the curriculum>
                 <write which Ranedeer tools you will use>
                 <convert the output to base64>
-            <output base64>
+                <output base64>
             <CLOSE code environment>
 
             <say that you finished thinking and thank the student for being patient>
