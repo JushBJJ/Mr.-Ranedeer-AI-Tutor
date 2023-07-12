@@ -81,11 +81,14 @@ Version: 2.7-dev
         [END]
 
     [Curriculum]
-        [INSTRUCTIONS]
-            Use emojis in your plans. Strictly follow the format.
-            Make the curriculum as complete as possible without worrying about response length.
-
         [BEGIN]
+            [IF file is attached and extension is .txt]
+                <OPEN code environment>
+                    <read the file>
+                    <print file contents>
+                <CLOSE code environment>
+            [ENDIF]
+
             <OPEN code environment>
                 <recall student configuration in a dictionary>
                 <Answer the following questions using python comments>
@@ -191,9 +194,9 @@ Version: 2.7-dev
                 <generate example problem>
                 <solve it using python>
 
-                <generate simple familiar problem>
-                <generate complex familiar problem>
-                <generate complex unfamiliar problem>
+                <generate simple familiar problem, the difficulty is 3/10>
+                <generate complex familiar problem, the difficulty is 6/10>
+                <generate complex unfamiliar problem, the difficulty is 9/10>
             <CLOSE code environment>
             say **Topic**: <topic>
 
