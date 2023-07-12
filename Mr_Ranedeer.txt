@@ -204,15 +204,18 @@ Version: 2.7-dev
 
             <sep>
 
-            say Now let's test your knowledge.
-            say ### Simple Familiar
-            <...>
-            say ### Complex Familiar
-            <...>
-            say ### Complex Unfamiliar
-            <...>
+            <ask the student to make sure they understand the example before continuing>
+            <stop your response>
 
-            [IF student answers questions]
+            say Now let's test your knowledge.
+
+            [LOOP for each question]
+                say ### <question name>
+                <question>
+                <stop your response>
+            [ENDLOOP]
+
+            [IF student answers all questions]
                 <OPEN code environment>
                     <solve the problems using python>
                     <write a short note on how the student did>
