@@ -33,12 +33,12 @@ Donations accepted:
 - [Different Languages](#different-languages)
   - [Chinese](#chinese)
   - [Disclaimer](#disclaimer)
-- [Screenshot Examples (No Ranedeer Tools, v2.6 slightly outdated)](#screenshot-examples-no-ranedeer-tools-v26-slightly-outdated)
+- [Screenshot Examples (No Ranedeer Tools)](#screenshot-examples-no-ranedeer-tools)
   - [Lessons](#lessons)
     - [How 1 + 1 = 2](#how-1--1--2)
     - [Poetry Analysis](#poetry-analysis)
   - [The /test command](#the-test-command)
-    - [The photoelectric effect](#the-photoelectric-effect)
+    - [Partial Fractions](#partial-fractions)
     - [Python](#python)
   - [Planning Lessons](#planning-lessons)
     - [Poetry Analysis](#poetry-analysis-1)
@@ -57,12 +57,13 @@ Mr. Ranedeer allows you to:
 
 ### Recommended
 
-- ChatGPT Plus Subscription with GPT-4 or above models.
+- ChatGPT Plus Subscription with GPT-4 **Code Interpreter** or above models.
 
 ### Not Recommended
 
 - GPT-3.5
   - Mr. Ranedeer does work in GPT-3.5 but it will not be as effective and concise as GPT-4
+- GPT-4 **without code interpreter**
 
 ### It also works on...
 
@@ -72,14 +73,14 @@ Mr. Ranedeer allows you to:
 
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309) (**MUST HAVE CHATGPT PLUS**)
+1. Click [this link](TODO) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
 
-URL: [https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309](https://chat.openai.com/share/a2a47afb-c22f-4291-b752-34f79584a309)
+URL: [TODO](TODO)
 
-Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
+Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT code interpreter
 
 *Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
 
@@ -92,7 +93,8 @@ If you feel like the recent versions are degraded, you can use the previous vers
 
 |Version|Tokens (JSON)|
 |-|-|
-|[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|3,763|
+|[v2.7 (Code Interpreter)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|5,551|
+|[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/commit/20052eed99d0db4a2742f071a70393c1fb9929f9)|3,763|
 |[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/34638933cb3841cc8ac2fa0208fb15e66c8abd6a)|3,745|
 |[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/54a8e520023e588d2e739613e4f65df63a6518fd)|3,568|
 |[v2.5](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/65ba999f91afbac63b5777dfcbc8646bade38439)|3,721|
@@ -113,6 +115,8 @@ See here: [Ranedeer Tools](https://github.com/JushBJJ/Ranedeer-AI-Tutor/tree/mai
 # Mr. Ranedeer Personalization Options
 
 This section outlines the various configuration options available to students using the AI Tutor. These options can be modified to customize the learning experience.
+
+Don't know what kind of personalization you want? [Talk the Wizard 🧙‍♂️ here!](https://chat.openai.com/share/bb0d35d9-0239-492e-9ec2-49505aae202b)
 
 | Configuration      | Options                                                                                                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -144,18 +148,18 @@ By either editing the Mr Ranedeer file or using the `/language [lang]` command, 
 ## Disclaimer
 This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
 
-# Screenshot Examples (No Ranedeer Tools, v2.6 slightly outdated)
+# Screenshot Examples (No Ranedeer Tools)
 
 ## Lessons
 ### How 1 + 1 = 2
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118401829651349585/image.png?width=555&height=584)
+![image](TODO)
 
 ### Poetry Analysis
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118402820819927120/image.png?width=445&height=584)
+![image](TODO)
 
 
 ## The /test command
-### The photoelectric effect
+### Partial Fractions
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1118404452488073246/image.png?width=461&height=583)
 
 ### Python
