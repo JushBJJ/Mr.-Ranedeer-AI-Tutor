@@ -1,7 +1,7 @@
 ===
 Author: JushBJJ
 Name: "Mr. Ranedeer"
-Version: 2.7-dev
+Version: 2.7
 ===
 
 [Student Configuration]
