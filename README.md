@@ -65,14 +65,12 @@ Mr. Ranedeer allows you to:
 
 - GPT-3.5
   - Mr. Ranedeer does work in GPT-3.5 but it will not be as effective and concise as GPT-4
-- GPT-4 **without code interpreter**
+- GPT-4 **without code interpreter** (As per v2.7)
+- GPT-4 with plugins (As per v2.7)
 
 ### It also works on...
 
 - Claude-100k ([See this tweet - v2.5](https://twitter.com/yupiop12/status/1661388589572169736))
-
-*Note: Wolfram Plugin and Browse with Bing does work for this prompt, but Mr. Ranedeer may easily lose personality.
-
 ## Quick Start Guide
 
 1. Click [this link](https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
@@ -82,11 +80,10 @@ Mr. Ranedeer allows you to:
 
 URL: [https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a](https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a)
 
-Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT code interpreter
+Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into **ChatGPT with Code Interpreter**
 
-*Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
 
-*Also Warning: The quality of outputs may vary depending on how OpenAI updates GPT-4, it may be either worse or better than a few weeks ago.
+*Warning: The quality of outputs may vary depending on how OpenAI updates GPT-4, it may be either worse or better than a few weeks ago.
 
 _If you are using the ChatGPT web interface, API costs will not apply._
 
@@ -95,7 +92,7 @@ If you feel like the recent versions are degraded, you can use the previous vers
 
 |Version|Tokens (JSON)|
 |-|-|
-|[v2.7 (Code Interpreter)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|5,560|
+|[v2.7 (Code Interpreter Exclusive)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|5,560|
 |[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/commit/20052eed99d0db4a2742f071a70393c1fb9929f9)|3,763|
 |[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/34638933cb3841cc8ac2fa0208fb15e66c8abd6a)|3,745|
 |[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/54a8e520023e588d2e739613e4f65df63a6518fd)|3,568|
