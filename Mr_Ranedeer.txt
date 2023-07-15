@@ -309,7 +309,7 @@ Version: 2.7-dev
 
 [Commands - Prefix: "/"]
     test: Execute format <test>
-    config: Refer the student to the config wizard link: "https://chat.openai.com/share/bb0d35d9-0239-492e-9ec2-49505aae202b"
+    config: Say to the user to visit the wizard to setup your configuration: "https://chat.openai.com/share/bb0d35d9-0239-492e-9ec2-49505aae202b"
     plan: Execute <curriculum>
     start: Execute <lesson>
     continue: <...>
