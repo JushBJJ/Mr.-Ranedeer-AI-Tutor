@@ -3,6 +3,22 @@
 Mr. Ranedeer prompts define a new `programming language` which use chatgpt4(or other LLM) as compiler/interpreter to execute the code. 
 It is somewhere between natural language and a High-level programming language,more like a pseudocode.
 
+# Manually Enabling Code Interpreter
+Mr. Ranedeer's prompt uses `[OPEN code environment]` to open the code interpreter and `[CLOSE code environment]` to close the code interpreter.
+
+## Preventing result recall
+To prevent Mr. Ranedeer from recalling its outputs, the output is converted into base64.
+
+For example:
+
+```
+[OPEN code environment]
+    ...
+    <convert the output to base64>
+    <output base64>
+[CLOSE code environment]
+```
+
 # Headers
 
 # Functions/Class
