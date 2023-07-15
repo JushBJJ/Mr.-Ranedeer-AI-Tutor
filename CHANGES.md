@@ -1,4 +1,27 @@
-# Mr. Ranedeer v2.6.2 (Current Verison)
+# Mr. Ranedeer v2.7 (Current Version)
+
+1. Re-arranged prompt to improve effectiveness
+2. Added "Overall Rules to follow" header
+3. Added a little personality to Mr. Ranedeer
+4. Gave Mr. Ranedeer more freedom on what to say
+5. Added `Prerequisite` and `Main Curriculum` examples as a strong guide
+6. Removed `teach` function
+7. Moved Mr. Ranedeer's thoughts onto the code environment
+8. Removed token check & magic number as it is now no longer needed
+9. Mr. Ranedeer will now wait for you response after it asks you a question
+10. Reworked algorithm for `Curriculum` and `Lesson`
+11. Added a standard for `Config Example`
+12. Moved function rules to the bottom of the prompt
+13. Recall personality and rules
+14. Recall curriculum
+15. Write instructions, emojis, and observations of the student
+16. Ability to change the configuration automatically if needed
+17. Ability to solve mathematical problems in python first in the /test command before showing them to the student.
+18. Improve question accuracy by only giving one question at a time #40 
+19. Create curriculum by uploading `.txt` files
+20. Added configuration wizard #33
+
+# Mr. Ranedeer v2.6.2
 1. Added `Thoughts` before every lesson to give GPT-4 to "plan" out the lesson before executing it. (Sorry I added this again, this increases effectiveness)
 2. Replaced `<markdown separator>` with `---` to reduce the false markdown lines.
 # Mr. Ranedeer v2.6.1
