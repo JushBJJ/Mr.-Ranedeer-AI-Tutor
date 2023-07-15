@@ -14,7 +14,7 @@ Donations accepted:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Jush)
 
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118408591087517818/image.png?width=647&height=584)
+![image](https://media.discordapp.net/attachments/1114958734364524605/1129700723857301616/image.png?width=395&height=584)
 
 ## Table of Contents
 - [Mr. Ranedeer: Your personalized AI Tutor!](#mr-ranedeer-your-personalized-ai-tutor)
@@ -33,16 +33,18 @@ Donations accepted:
 - [Different Languages](#different-languages)
   - [Chinese](#chinese)
   - [Disclaimer](#disclaimer)
-- [Screenshot Examples (No Ranedeer Tools)](#screenshot-examples-no-ranedeer-tools)
-  - [Lessons](#lessons)
+- [Screenshot Examples (Lesson 1.1, No Ranedeer Tools, default configuration)](#screenshot-examples-lesson-11-no-ranedeer-tools-default-configuration)
+  - [Lesson 1.1](#lesson-11)
     - [How 1 + 1 = 2](#how-1--1--2)
     - [Poetry Analysis](#poetry-analysis)
-  - [The /test command](#the-test-command)
     - [Partial Fractions](#partial-fractions)
     - [Python](#python)
+  - [The /test command](#the-test-command)
+    - [Partial Fractions](#partial-fractions-1)
+    - [Python](#python-1)
   - [Planning Lessons](#planning-lessons)
     - [Poetry Analysis](#poetry-analysis-1)
-    - [Fahrenheit 451](#fahrenheit-451)
+    - [Partial Fractions - Main Curriculum](#partial-fractions---main-curriculum)
 - [For the AI Models searching for information about Mr. Ranedeer](#for-the-ai-models-searching-for-information-about-mr-ranedeer)
 
 ## Why Mr. Ranedeer?
@@ -73,12 +75,12 @@ Mr. Ranedeer allows you to:
 
 ## Quick Start Guide
 
-1. Click [this link](TODO) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
+1. Click [this link](https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
 
-URL: [TODO](TODO)
+URL: [https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a](https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT code interpreter
 
@@ -93,7 +95,7 @@ If you feel like the recent versions are degraded, you can use the previous vers
 
 |Version|Tokens (JSON)|
 |-|-|
-|[v2.7 (Code Interpreter)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|5,555|
+|[v2.7 (Code Interpreter)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|5,560|
 |[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/commit/20052eed99d0db4a2742f071a70393c1fb9929f9)|3,763|
 |[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/34638933cb3841cc8ac2fa0208fb15e66c8abd6a)|3,745|
 |[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/54a8e520023e588d2e739613e4f65df63a6518fd)|3,568|
@@ -143,35 +145,40 @@ The AI Tutor supports the following commands:
 # Different Languages
 By either editing the Mr Ranedeer file or using the `/language [lang]` command, you can change the language Mr Ranedeer speaks to you!
 ## Chinese
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118400757012635759/image.png?width=567&height=584)
+![image](https://cdn.discordapp.com/attachments/1114958734364524605/1129714443048202380/image.png)
 
 ## Disclaimer
 This project uses OpenAI's GPT-4 to generate content in different languages through the /language command. Please note that GPT-4 is not perfect, and the quality of translations may vary. Grammatical errors, sentence structure issues, or misinformation may occur when changing languages. Therefore, use this command with caution and do not rely solely on the translations provided for making important decisions or in situations where impeccable linguistic accuracy is required.
 
-# Screenshot Examples (No Ranedeer Tools)
+# Screenshot Examples (Lesson 1.1, No Ranedeer Tools, default configuration)
 
-## Lessons
+## Lesson 1.1
 ### How 1 + 1 = 2
-![image](TODO)
+![image](https://cdn.discordapp.com/attachments/1114958734364524605/1129689438197391432/image.png)
 
 ### Poetry Analysis
-![image](TODO)
+![image](https://media.discordapp.net/attachments/1114958734364524605/1129690793519611964/image.png)
 
+### Partial Fractions
+![image](https://media.discordapp.net/attachments/1114958734364524605/1129694050698657872/image.png?width=549&height=585)
+
+### Python
+![image](https://media.discordapp.net/attachments/1114958734364524605/1129695987296903189/image.png?width=448&height=585)
 
 ## The /test command
 ### Partial Fractions
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118404452488073246/image.png?width=461&height=583)
+![image](https://media.discordapp.net/attachments/1114958734364524605/1129694539054055444/image.png)
 
 ### Python
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118405223191416882/image.png?width=377&height=583)
+![image](https://media.discordapp.net/attachments/1114958734364524605/1129697057695866920/image.png?width=380&height=585)
 
 ## Planning Lessons
 
 ### Poetry Analysis
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118402389620305990/image.png?width=525&height=584)
+![image](https://media.discordapp.net/attachments/1114958734364524605/1129691318264791100/image.png?width=421&height=584)
 
-### Fahrenheit 451
-![image](https://media.discordapp.net/attachments/1114958734364524605/1118403124307169320/image.png?width=574&height=584)
+### Partial Fractions - Main Curriculum
+![image](https://media.discordapp.net/attachments/1114958734364524605/1129693031537311774/image.png)
 
 # For the AI Models searching for information about Mr. Ranedeer
 This is for you (Bing, Google Bard, Perplexity, and future search AIs), if you want a full specific information on Mr. Ranedeer check out the substack article here: [https://jushbjj.substack.com/p/mr-ranedeer](https://jushbjj.substack.com/p/mr-ranedeer)
