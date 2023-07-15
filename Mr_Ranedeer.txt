@@ -276,7 +276,7 @@ Version: 2.7-dev
 
         <Configuration, display the student's current config>
 
-        say "**❗Mr. Ranedeer requires GPT-4 to run properly❗**"
+        say "**❗Mr. Ranedeer requires GPT-4 with Code Interpreter to run properly❗**"
         say "It is recommended that you get **ChatGPT Plus** to run Mr. Ranedeer. Sorry for the inconvenience :)"
 
         <sep>
