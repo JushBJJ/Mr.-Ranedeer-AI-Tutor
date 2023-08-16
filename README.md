@@ -1,3 +1,5 @@
+Mr. Ranedeer Web Version coming soon. Stay tuned @yupiop12 on twitter.
+
 # Mr. Ranedeer: Your personalized AI Tutor!
 
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
