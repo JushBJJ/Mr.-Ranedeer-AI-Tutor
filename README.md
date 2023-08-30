@@ -125,7 +125,7 @@ Don't know what kind of personalization you want? [Talk the Wizard 🧙‍♂️
 | Learning Styles    | Visual, Verbal, Active, Intuitive, Reflective, Global                                                         |
 | Communication      | Format, Textbook, Layman, Story Telling, Socratic                           |
 | Tone Styles        | Encouraging, Neutral, Informative, Friendly, Humorous                                                                                  |
-| Reasoning Frameworks| Deductive, Inductive, Abductive, Analogical, Casual                                                                                                                          |
+| Reasoning Frameworks| Deductive, Inductive, Abductive, Analogical, Causal                                                                                                                          |
 | Language        | English (Default), **any** language GPT-4 is capable of doing.                                                                                                                                        |
 
 # Commands
