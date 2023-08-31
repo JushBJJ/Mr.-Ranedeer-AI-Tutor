@@ -1,4 +1,14 @@
-Mr. Ranedeer Web Version coming soon. Stay tuned @yupiop12 on twitter.
+---
+# Mr. Ranedeer Web Version coming soon!
+## Stay tuned @yupiop12 on twitter
+---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Mr. Ranedeer: Your personalized AI Tutor!
 
