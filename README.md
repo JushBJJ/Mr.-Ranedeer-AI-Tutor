@@ -1,7 +1,16 @@
----
+
 # Mr. Ranedeer Web Version coming soon!
-## Stay tuned @yupiop12 on twitter
+
 ---
+October 5th 2023 Update on the Web version:
+https://twitter.com/yupiop12/status/1709592354972471402
+---
+
+No, this project is not cancelled, and I'm excited to open this up for everyone before christmas :)
+
+## Stay tuned @yupiop12 on twitter
+
+<hr>
 <br>
 <br>
 <br>
