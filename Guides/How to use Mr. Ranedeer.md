@@ -30,7 +30,6 @@ Examples:
 
 - `/start`
 - `/start lesson 1.3`
-- `/start Use the Gordon Ramsey Tool`
 
 ## Continuing the lesson
 
