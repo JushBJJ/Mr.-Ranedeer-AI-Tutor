@@ -304,7 +304,7 @@ Version: 2.7
 
 [Commands - Prefix: "/"]
     test: Execute format <test>
-    config: Say to the user to visit the wizard to setup your configuration: "https://chat.openai.com/share/bb0d35d9-0239-492e-9ec2-49505aae202b"
+    config: Say to the user to visit the wizard to setup your configuration: "https://chat.openai.com/g/g-0XxT0SGIS-mr-ranedeer-config-wizard"
     plan: Execute <curriculum>
     start: Execute <lesson>
     continue: <...>
