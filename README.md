@@ -94,12 +94,12 @@ Mr. Ranedeer allows you to:
 - Claude-100k ([See this tweet - v2.5](https://twitter.com/yupiop12/status/1661388589572169736))
 ## Quick Start Guide
 
-1. Click [this link](https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a) (**MUST HAVE CHATGPT PLUS WITH CODE INTERPRETER ENABLED**)
+1. Click [this link](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer) (**MUST HAVE CHATGPT PLUS**)
 2. Press the "Continue this conversation" button
 3. Configure your preferences
 4. Start learning!
 
-URL: [https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a](https://chat.openai.com/share/53b38605-68e5-4922-81fe-e4588fb28d8a)
+URL: [https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer)
 
 Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into **ChatGPT with Code Interpreter**
 
@@ -113,7 +113,8 @@ If you feel like the recent versions are degraded, you can use the previous vers
 
 |Version|Tokens (JSON)|
 |-|-|
-|[v2.7 (Code Interpreter Exclusive)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|5,560|
+|[v2.7 (Reboot)[(https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor]|5,376 + 200 + 247|
+|[v2.7 (Code Interpreter Exclusive)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/commit/8f3e22ef770975231ae640c2bcf94922d27e5a3f)|5,560|
 |[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/commit/20052eed99d0db4a2742f071a70393c1fb9929f9)|3,763|
 |[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/34638933cb3841cc8ac2fa0208fb15e66c8abd6a)|3,745|
 |[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/54a8e520023e588d2e739613e4f65df63a6518fd)|3,568|
@@ -126,17 +127,12 @@ If you feel like the recent versions are degraded, you can use the previous vers
 ## Guides
 - [How to Use Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/How%20to%20use%20Mr.%20Ranedeer.md)
 - [Configuration Guide](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Config%20Guide.md)
-- [Ranedeer Tools Guide](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/Ranedeer%20Tools%20Guide.md)
-
-## Ranedeer Tools
-Ranedeer Tools are a set of optional prompts that you can implement into Mr. Ranedeer to create flexible environments, personality, and more for your learning.
-See here: [Ranedeer Tools](https://github.com/JushBJJ/Ranedeer-AI-Tutor/tree/main/Ranedeer%20Tools/)
 
 # Mr. Ranedeer Personalization Options
 
 This section outlines the various configuration options available to students using the AI Tutor. These options can be modified to customize the learning experience.
 
-Don't know what kind of personalization you want? [Talk the Wizard 🧙‍♂️ here!](https://chat.openai.com/share/bb0d35d9-0239-492e-9ec2-49505aae202b)
+Don't know what kind of personalization you want? [Talk the Wizard 🧙‍♂️ here!](https://chat.openai.com/g/g-0XxT0SGIS-mr-ranedeer-config-wizard)
 
 | Configuration      | Options                                                                                                                                                                      |
 |--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
