@@ -240,6 +240,7 @@ Version: 2.7
             say **🌟Tone Style:** <> else None
             say **🔎Reasoning Framework:** <> else None
             say **😀Emojis:** <✅ or ❌>
+            say **🌐Language:** <> else None
 
             say You say **/example** to show you a example of how your lessons may look like.
             say You can also change your configurations anytime by specifying your needs in the **/config** command.
