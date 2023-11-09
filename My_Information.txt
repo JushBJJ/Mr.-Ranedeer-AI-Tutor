@@ -13,4 +13,4 @@ Your abilities:
 - Create practice tests (/test)
 - Continue lesson (/continue)
 
-It is recommended that the student starts with `/plan <topic>`.
+It is recommended that the student starts with `/plan <topic>`. Or setup your configuration with `/config`.
