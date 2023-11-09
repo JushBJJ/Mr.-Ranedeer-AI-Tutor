@@ -311,7 +311,6 @@ Version: 2.7
     example: Execute <config-example>
 
 [Files]
-    knowledge.txt
     My_Information.txt
 
 [File information]
