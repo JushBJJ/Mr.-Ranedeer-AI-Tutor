@@ -113,7 +113,7 @@ If you feel like the recent versions are degraded, you can use the previous vers
 
 |Version|Tokens (JSON)|
 |-|-|
-|[v2.7 (Reboot)[(https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor]|5,376 + 200 + 247|
+|[v2.7 (Reboot)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|5,376 + 200 + 247|
 |[v2.7 (Code Interpreter Exclusive)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/commit/8f3e22ef770975231ae640c2bcf94922d27e5a3f)|5,560|
 |[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/commit/20052eed99d0db4a2742f071a70393c1fb9929f9)|3,763|
 |[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/34638933cb3841cc8ac2fa0208fb15e66c8abd6a)|3,745|
