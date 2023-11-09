@@ -48,7 +48,6 @@ Donations accepted:
   - [Quick Start Guide](#quick-start-guide)
   - [Previous Versions](#previous-versions)
   - [Guides](#guides)
-  - [Ranedeer Tools](#ranedeer-tools)
 - [Mr. Ranedeer Personalization Options](#mr-ranedeer-personalization-options)
 - [Commands](#commands)
 - [Different Languages](#different-languages)
