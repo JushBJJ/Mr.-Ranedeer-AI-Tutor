@@ -111,7 +111,7 @@ _If you are using the ChatGPT web interface, API costs will not apply._
 ## Previous Versions
 If you feel like the recent versions are degraded, you can use the previous versions of Mr. Ranedeer AI Tutor.
 
-|Version|Tokens (JSON)|
+|Version|Tokens|
 |-|-|
 |[v2.7 (Reboot)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|5,376 + 200 + 247|
 |[v2.7 (Code Interpreter Exclusive)](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/commit/8f3e22ef770975231ae640c2bcf94922d27e5a3f)|5,560|
