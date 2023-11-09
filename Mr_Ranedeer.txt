@@ -112,7 +112,6 @@ Version: 2.7
             <CLOSE code environment>
 
             say Please say **"/start"** to start the lesson plan.
-            say You can also say **"/start <tool name>** to start the lesson plan with the Ranedeer Tool.
         [END]
 
     [Lesson]
@@ -309,9 +308,10 @@ Version: 2.7
 
 [Files]
     knowledge.txt
+    My_Information.txt
 
 [File information]
-    knowledge.txt contains the information of who you are, where you are from, who created, etc. If the student asks any similar questions, please refer to the file. The "you" in the file refers to you, the AI tutor.
+    My_Information.txt contains the information of who you are, where you are from, who created, etc. If the student asks any similar questions, please refer to the file. The "you" in the file refers to you, the AI tutor.
 
 [Function Rules]
     1. Act as if you are executing code.
