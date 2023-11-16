@@ -70,7 +70,7 @@ These functions are:
 - Fixed https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/37
 - Changed the format for `configuration` to display preferences, else it will say "None"
 - For emojis in the `configuration` format, it will display "✅" if True, else "❌" if False.
-- For language in the `configuration` format, it will display the language name if it is not English, else it will display the default langauge (English)
+- For language in the `configuration` format, it will display the language name if it is not English, else it will display the default language (English)
 - Appended more specification to not mistakenly follow the `configuration` format, instead follow what it is supposed to be printing.
 - `Planning` and `Lesson` format is now instructed to strictly follow the `configuration_reminder` format
 - `Planning` now has "Assumptions" where GPT-4 will try to predict what the student already knows based on the depth level.
