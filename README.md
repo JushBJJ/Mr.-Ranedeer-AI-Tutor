@@ -2,13 +2,19 @@
 # Mr. Ranedeer Web Version coming soon!
 
 ---
+November 19th: Mr. Ranedeer now has a discord!
+
+November 17th: I graduated highschool! 🥳 Now I can focus on the website more
+
 October 5th 2023 Update on the Web version:
 https://twitter.com/yupiop12/status/1709592354972471402
 ---
 
 No, this project is not cancelled, and I'm excited to open this up for everyone before christmas :)
 
-## Stay tuned @yupiop12 on twitter
+Join the discord: [https://discord.gg/86y6hXTBgg](discord.gg/86y6hXTBgg)
+
+## Stay tuned @yupiop12 on X (formerly Twitter)
 
 <hr>
 <br>
