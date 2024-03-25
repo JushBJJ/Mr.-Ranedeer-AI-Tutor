@@ -2,6 +2,8 @@
 # Mr. Ranedeer Web Version coming soon!
 
 ---
+March 25, 2024: Please look at [https://mr-ranedeer.com/](mr-ranedeer.com) for progress % updates. :)
+
 November 19th: Mr. Ranedeer now has a discord!
 
 November 17th: I graduated highschool! 🥳 Now I can focus on the website more
