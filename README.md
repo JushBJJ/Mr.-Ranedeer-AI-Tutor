@@ -2,7 +2,7 @@
 # Mr. Ranedeer Web Version coming soon!
 
 ---
-March 25, 2024: Please look at [https://mr-ranedeer.com/](mr-ranedeer.com) for progress % updates. :)
+March 25, 2024: Please look at https://mr-ranedeer.com/ for progress % updates. :)
 
 November 19th: Mr. Ranedeer now has a discord!
 
@@ -14,7 +14,7 @@ https://twitter.com/yupiop12/status/1709592354972471402
 
 No, this project is not cancelled, and I'm excited to open this up for everyone before christmas :)
 
-Join the discord: [https://discord.gg/86y6hXTBgg](discord.gg/86y6hXTBgg)
+Join the discord: https://discord.gg/86y6hXTBg
 
 ## Stay tuned @yupiop12 on X (formerly Twitter)
 
