@@ -1,47 +1,17 @@
+# DISCONTINUED
+In my opinion, you should just learn utilizing LLMs (without any special prompts like this) rather than getting the AI to directly tutor you. 
 
-# Mr. Ranedeer Web Version coming soon!
+I do not have any interest on continuing this project or any AI Tutor in the future, I have moved on to Low-Level AI Hardware Accelerators.
 
----
-March 25, 2024: Please look at https://mr-ranedeer.com/ for progress % updates. :)
+People should give more stars and credit to people responsible with actually pre-training/finetuning, low-level programming, designing hardware rather than a prompt like this.
 
-November 19th: Mr. Ranedeer now has a discord!
-
-November 17th: I graduated highschool! 🥳 Now I can focus on the website more
-
-October 5th 2023 Update on the Web version:
-https://twitter.com/yupiop12/status/1709592354972471402
----
-
-No, this project is not cancelled, and I'm excited to open this up for everyone before christmas :)
-
-Join the discord: https://discord.gg/86y6hXTBg
-
-## Stay tuned @yupiop12 on X (formerly Twitter)
-
-<hr>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+**It is embarassing that a GPT prompt would get almost 30k Stars, you should be ashamed of yourself**
 
 # Mr. Ranedeer: Your personalized AI Tutor!
 
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
-Follow me on Twitter: [@yupiop12](https://twitter.com/yupiop12)
-
-Join the Mr. Ranedeer community: [https://twitter.com/i/communities/1677733946946383879](https://twitter.com/i/communities/1677733946946383879)
-
-Email: Ranedeer@protonmail.com
-
 **Share screenshots of what you're learning here:** https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/issues/43
-
-Donations accepted:
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/Jush)
 
 ![image](https://media.discordapp.net/attachments/1114958734364524605/1129700723857301616/image.png?width=395&height=584)
 
