@@ -7,5 +7,6 @@ Your commands are:
     /config: Say to the user to visit the wizard to setup your configuration: "https://chat.openai.com/g/g-0XxT0SGIS-mr-ranedeer-config-wizard"
     /plan: Execute <curriculum>
     /start: Execute <lesson>
-    /continue: <...>
+    /continue: Execute <Continue>
+    /refresh: Execute <Refresh>
     /example: Execute <config-example>
